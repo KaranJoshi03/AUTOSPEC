@@ -1,0 +1,124 @@
+query_id,query,category,sql_style,num_specs,has_result,has_numeric_value,avg_confidence,max_confidence,schema_valid,cache_hit,latency,model_used
+q_092,What is the throttle position sensor resistance?,electrical,SELECT resistance FROM throttle position sensor,0,False,False,0.0,0.0,True,False,4.156,qwen/qwen3.8-27b
+q_036,What is the fuel system pressure specification?,pressure,SELECT pressure FROM fuel system,0,False,False,0.0,0.0,True,False,5.852,qwen/qwen3.8-27b
+q_026,Total fuel tank capacity in liters?,capacity,FETCH volume WHERE system='fuel tank',23,True,True,0.9,0.9,True,False,3.669,qwen/qwen3.8-27b
+q_002,What is the tightening torque for main bearing cap?,torque,SELECT torque FROM specs WHERE component LIKE '%main bearing cap%',0,False,False,0.0,0.0,True,False,4.042,qwen/qwen3.8-27b
+q_045,What is the ac low side pressure pressure specification?,pressure,SELECT pressure FROM ac low side pressure,2,True,False,0.9,0.9,True,False,6.964,qwen/qwen3.8-27b
+q_105,What is the procedure or spec for spark plug replacement?,procedure,SELECT procedure_steps FROM procedures WHERE topic LIKE '%spark plug replacement%',6,True,True,0.9,0.9,True,False,4.741,qwen/qwen3.8-27b
+q_096,What is the knock sensor resistance?,electrical,SELECT resistance FROM knock sensor,0,False,False,0.0,0.0,True,False,3.428,qwen/qwen3.8-27b
+q_041,What is the brake system pressure specification?,pressure,SELECT pressure FROM brake system,0,False,False,0.0,0.0,True,False,4.521,qwen/qwen3.8-27b
+q_052,What temperature for catalytic converter?,temperature,SELECT temp FROM catalytic converter,0,False,False,0.0,0.0,True,False,4.617,qwen/qwen3.8-27b
+q_025,What is the windshield washer capacity?,capacity,SELECT capacity FROM fluids WHERE type='windshield washer',0,False,False,0.0,0.0,True,False,4.336,qwen/qwen3.8-27b
+q_088,alternator output electrical specification?,electrical,FETCH amperage_rating FROM alternator output,16,True,True,0.9,0.9,True,False,4.329,qwen/qwen3.8-27b
+q_093,coolant temperature sensor electrical specification?,electrical,FETCH amperage_rating FROM coolant temperature sensor,2,True,True,0.9,0.9,True,False,4.523,qwen/qwen3.8-27b
+q_110,What is the procedure or spec for coolant bleed procedure?,procedure,SELECT procedure_steps FROM procedures WHERE topic LIKE '%coolant bleed procedure%',0,False,False,0.0,0.0,True,False,3.665,qwen/qwen3.8-27b
+q_115,What are all temperature thresholds in the cooling system?,multi_hop,SELECT * FROM specs WHERE system='cooling' AND spec_type='temperature',1,True,True,0.9,0.9,True,False,19.048,qwen/qwen3.8-27b+multi_hop
+q_121,List all intake and exhaust valve clearance tolerances,multi_hop,"SELECT comp, clearance FROM valves WHERE type IN ('intake', 'exhaust')",2,True,True,0.9,0.9,True,False,7.08,qwen/qwen3.8-27b+multi_hop
+q_098,crankshaft position sensor voltage specification?,electrical,GET voltage FROM crankshaft position sensor,16,True,True,0.9,0.9,True,False,4.45,qwen/qwen3.8-27b
+q_039,compression operating pressure?,pressure,GET operating_pressure FROM compression,1,True,True,0.92,0.92,True,False,5.227,qwen/qwen3.8-27b
+q_060,brake disc minimum thickness?,dimension,GET min_thickness FROM brake disc,3,True,True,0.9,0.9,True,False,3.517,qwen/qwen3.8-27b
+q_013,What is the tightening torque for oil drain plug?,torque,SELECT torque FROM specs WHERE component LIKE '%oil drain plug%',0,False,False,0.0,0.0,True,False,2.717,qwen/qwen3.8-27b
+q_044,What is the fuel rail pressure pressure specification?,pressure,SELECT pressure FROM fuel rail pressure,0,False,False,0.0,0.0,True,False,5.71,qwen/qwen3.8-27b
+q_016,What is the tightening torque for strut mount nut?,torque,SELECT torque FROM specs WHERE component LIKE '%strut mount nut%',0,False,False,0.0,0.0,True,False,3.038,qwen/qwen3.8-27b
+q_084,connecting rod oil clearance allowable clearance tolerance?,clearance,FETCH tolerance FROM connecting rod oil clearance,15,True,True,0.9,0.9,True,False,6.324,qwen/qwen3.8-27b
+q_097,camshaft position sensor voltage specification?,electrical,GET voltage FROM camshaft position sensor,16,True,True,0.9,0.9,True,True,0.026,qwen/qwen3.8-27b
+q_029,Total air conditioning refrigerant capacity in liters?,capacity,FETCH volume WHERE system='air conditioning refrigerant',23,True,True,0.9,0.9,True,False,4.168,qwen/qwen3.8-27b
+q_035,What is the washer reservoir capacity?,capacity,SELECT capacity FROM fluids WHERE type='washer reservoir',3,True,True,0.9,0.9,True,False,3.641,qwen/qwen3.8-27b
+q_021,Total coolant capacity in liters?,capacity,FETCH volume WHERE system='coolant',13,True,True,0.9,0.9,True,False,3.7,qwen/qwen3.8-27b
+q_122,What are all electrical resistance specs for engine sensors?,multi_hop,"SELECT part, resistance FROM sensors WHERE system='engine'",3,True,True,0.96,0.96,True,False,7.194,qwen/qwen3.8-27b+multi_hop
+q_086,valve guide clearance allowable clearance tolerance?,clearance,FETCH tolerance FROM valve guide clearance,0,False,False,0.0,0.0,True,False,4.269,qwen/qwen3.8-27b
+q_030,How much hydraulic fluid is needed?,capacity,GET fluid_amount FROM hydraulic fluid,13,True,True,0.9,0.9,True,False,4.299,qwen/qwen3.8-27b
+q_102,Service manual specification for serpentine belt routing?,procedure,FETCH service_instruction WHERE topic='serpentine belt routing',9,True,True,0.9,0.9,True,False,3.27,qwen/qwen3.8-27b
+q_024,Total power steering fluid capacity in liters?,capacity,FETCH volume WHERE system='power steering fluid',23,True,True,0.9,0.9,True,False,3.977,qwen/qwen3.8-27b
+q_004,Torque specification for crankshaft pulley?,torque,"GET torque_value, unit FROM crankshaft pulley",22,True,True,0.9,0.9,True,False,3.4,qwen/qwen3.8-27b
+q_042,What is the power steering pressure specification?,pressure,SELECT pressure FROM power steering,2,True,False,0.9,0.9,True,False,3.832,qwen/qwen3.8-27b
+q_047,What is the manifold vacuum pressure specification?,pressure,SELECT pressure FROM manifold vacuum,0,False,False,0.0,0.0,True,False,5.873,qwen/qwen3.8-27b
+q_005,What is the tightening torque for intake manifold?,torque,SELECT torque FROM specs WHERE component LIKE '%intake manifold%',0,False,False,0.0,0.0,True,False,5.226,qwen/qwen3.8-27b
+q_077,piston ring gap gap specification?,clearance,GET gap FROM piston ring gap,8,True,True,0.9,0.9,True,False,4.18,qwen/qwen3.8-27b
+q_003,flywheel bolt bolt tightening torque in Nm?,torque,FETCH bolt_torque WHERE part='flywheel bolt',0,False,False,0.0,0.0,True,False,2.913,qwen/qwen3.8-27b
+q_015,Torque specification for camshaft sprocket bolt?,torque,"GET torque_value, unit FROM camshaft sprocket bolt",22,True,True,0.9,0.9,True,False,3.617,qwen/qwen3.8-27b
+q_057,oil cooler opening temperature specification?,temperature,GET operating_temp FROM oil cooler opening,24,True,True,0.9,0.9,True,False,4.228,qwen/qwen3.8-27b
+q_113,List all major engine bolt torque specifications,multi_hop,SELECT torque FROM head_bolts UNION SELECT torque FROM rod_bolts,7,True,True,0.9,0.9,True,False,7.272,qwen/qwen3.8-27b+multi_hop
+q_007,What is the tightening torque for oil pan bolt?,torque,SELECT torque FROM specs WHERE component LIKE '%oil pan bolt%',0,False,False,0.0,0.0,True,False,3.333,qwen/qwen3.8-27b
+q_081,bearing clearance gap specification?,clearance,GET gap FROM bearing clearance,15,True,True,0.9,0.9,True,False,2.986,qwen/qwen3.8-27b
+q_107,Service manual specification for differential gear backlash?,procedure,FETCH service_instruction WHERE topic='differential gear backlash',1,True,False,0.9,0.9,True,False,2.905,qwen/qwen3.8-27b
+q_099,fuel pump relay voltage specification?,electrical,GET voltage FROM fuel pump relay,0,False,False,0.0,0.0,True,False,5.076,qwen/qwen3.8-27b
+q_056,What temperature for radiator fan high speed?,temperature,SELECT temp FROM radiator fan high speed,0,False,False,0.0,0.0,True,False,4.601,qwen/qwen3.8-27b
+q_066,clutch disc measurement specification?,dimension,FETCH measurement WHERE part='clutch disc',3,True,True,0.9,0.9,True,False,7.392,qwen/qwen3.8-27b
+q_094,fuel injector resistance electrical specification?,electrical,FETCH amperage_rating FROM fuel injector resistance,0,False,False,0.0,0.0,True,False,4.806,qwen/qwen3.8-27b
+q_073,What are the crankshaft journal diameter dimensions?,dimension,SELECT dimension FROM crankshaft journal diameter,13,True,True,0.9,0.9,True,False,7.607,qwen/qwen3.8-27b
+q_010,spark plug bolt tightening torque in Nm?,torque,FETCH bolt_torque WHERE part='spark plug',0,False,False,0.0,0.0,True,False,2.818,qwen/qwen3.8-27b
+q_119,What components require torque greater than 50 Nm?,multi_hop,SELECT * FROM specs WHERE value > 50 AND unit='Nm',7,True,True,0.9,0.9,True,False,8.599,qwen/qwen3.8-27b+multi_hop
+q_023,What is the brake fluid capacity?,capacity,SELECT capacity FROM fluids WHERE type='brake fluid',13,True,True,0.9,0.9,True,False,3.576,qwen/qwen3.8-27b
+q_009,What is the tightening torque for timing chain tensioner?,torque,SELECT torque FROM specs WHERE component LIKE '%timing chain tensioner%',1,True,True,0.9,0.9,True,False,5.199,qwen/qwen3.8-27b
+q_012,brake caliper bolt bolt tightening torque in Nm?,torque,FETCH bolt_torque WHERE part='brake caliper bolt',3,True,True,0.9,0.9,True,False,3.34,qwen/qwen3.8-27b
+q_038,tire pressure operating pressure?,pressure,GET operating_pressure FROM tire pressure,0,False,False,0.0,0.0,True,False,4.068,qwen/qwen3.8-27b
+q_062,piston ring measurement specification?,dimension,FETCH measurement WHERE part='piston ring',11,True,True,0.9,0.9,True,False,7.773,qwen/qwen3.8-27b
+q_061,brake pad measurement specification?,dimension,FETCH measurement WHERE part='brake pad',3,True,True,0.9,0.9,True,False,6.412,qwen/qwen3.8-27b
+q_053,oil temperature operating temperature threshold?,temperature,FETCH threshold_celsius FROM oil temperature,0,False,False,0.0,0.0,True,False,4.447,qwen/qwen3.8-27b
+q_089,What is the starter motor resistance?,electrical,SELECT resistance FROM starter motor,0,False,False,0.0,0.0,True,False,3.952,qwen/qwen3.8-27b
+q_117,List all vehicle fluid capacities from largest to smallest,multi_hop,"SELECT component, capacity FROM fluids ORDER BY capacity DESC",8,True,True,0.9,0.9,True,False,6.654,qwen/qwen3.8-27b+multi_hop
+q_069,rotor thickness measurement specification?,dimension,FETCH measurement WHERE part='rotor thickness',3,True,True,0.9,0.9,True,False,7.156,qwen/qwen3.8-27b
+q_118,What are all wheel and hub assembly torque specifications?,multi_hop,SELECT torque FROM wheel_assembly WHERE component LIKE '%bolt%' OR component LIKE '%nut%',6,True,True,0.9,0.9,True,False,4.927,qwen/qwen3.8-27b+multi_hop
+q_079,camshaft end play gap specification?,clearance,GET gap FROM camshaft end play,0,False,False,0.0,0.0,True,False,7.275,qwen/qwen3.8-27b
+q_078,crankshaft end play allowable clearance tolerance?,clearance,FETCH tolerance FROM crankshaft end play,0,False,False,0.0,0.0,True,False,3.095,qwen/qwen3.8-27b
+q_022,Total transmission fluid capacity in liters?,capacity,FETCH volume WHERE system='transmission fluid',23,True,True,0.9,0.9,True,False,3.69,qwen/qwen3.8-27b
+q_064,bearing clearance measurement specification?,dimension,FETCH measurement WHERE part='bearing clearance',15,True,True,0.9,0.9,True,True,0.023,qwen/qwen3.8-27b
+q_103,What is the procedure or spec for brake bleeding sequence?,procedure,SELECT procedure_steps FROM procedures WHERE topic LIKE '%brake bleeding sequence%',0,False,False,0.0,0.0,True,False,3.64,qwen/qwen3.8-27b
+q_000,cylinder head bolt bolt tightening torque in Nm?,torque,FETCH bolt_torque WHERE part='cylinder head bolt',0,False,False,0.0,0.0,True,True,0.027,qwen/qwen3.8-27b
+q_111,Compare the intake manifold bolt torque vs exhaust manifold bolt torque,multi_hop,"SELECT a.torque - b.torque FROM specs a, specs b WHERE a.comp='intake' AND b.comp='exhaust'",2,True,True,0.9,0.9,True,False,8.81,qwen/qwen3.8-27b+multi_hop
+q_087,battery voltage electrical specification?,electrical,FETCH amperage_rating FROM battery voltage,4,True,True,0.9,0.9,True,False,3.772,qwen/qwen3.8-27b
+q_055,exhaust gas operating temperature threshold?,temperature,FETCH threshold_celsius FROM exhaust gas,0,False,False,0.0,0.0,True,False,4.568,qwen/qwen3.8-27b
+q_037,oil pressure pressure rating?,pressure,FETCH psi_rating FROM oil pressure,1,True,False,0.9,0.9,True,False,4.806,qwen/qwen3.8-27b
+q_075,valve clearance intake gap specification?,clearance,GET gap FROM valve clearance intake,5,True,True,0.9,0.9,True,False,3.208,qwen/qwen3.8-27b
+q_043,turbo boost operating pressure?,pressure,GET operating_pressure FROM turbo boost,0,False,False,0.0,0.0,True,False,5.359,qwen/qwen3.8-27b
+q_034,How much clutch fluid is needed?,capacity,GET fluid_amount FROM clutch fluid,0,False,False,0.0,0.0,True,False,5.621,qwen/qwen3.8-27b
+q_104,What is the procedure or spec for cylinder head tightening sequence?,procedure,SELECT procedure_steps FROM procedures WHERE topic LIKE '%cylinder head tightening sequence%',0,False,False,0.0,0.0,True,False,7.465,qwen/qwen3.8-27b
+q_090,ignition coil electrical specification?,electrical,FETCH amperage_rating FROM ignition coil,16,True,True,0.9,0.9,True,False,5.689,qwen/qwen3.8-27b
+q_001,What is the tightening torque for connecting rod bolt?,torque,SELECT torque FROM specs WHERE component LIKE '%connecting rod bolt%',22,True,True,0.9,0.9,True,False,3.69,qwen/qwen3.8-27b
+q_070,What are the front rotor diameter dimensions?,dimension,SELECT dimension FROM front rotor diameter,10,True,True,0.9,0.9,True,False,4.428,qwen/qwen3.8-27b
+q_032,How much manual transmission fluid is needed?,capacity,GET fluid_amount FROM manual transmission fluid,0,False,False,0.0,0.0,True,False,3.822,qwen/qwen3.8-27b
+q_067,What are the tire size dimensions?,dimension,SELECT dimension FROM tire size,0,False,False,0.0,0.0,True,False,4.667,qwen/qwen3.8-27b
+q_059,engine block temp operating temperature threshold?,temperature,FETCH threshold_celsius FROM engine block temp,0,False,False,0.0,0.0,True,False,4.524,qwen/qwen3.8-27b
+q_085,main bearing oil clearance gap specification?,clearance,GET gap FROM main bearing oil clearance,2,True,True,0.9,0.9,True,False,4.185,qwen/qwen3.8-27b
+q_048,thermostat temperature specification?,temperature,GET operating_temp FROM thermostat,12,True,True,0.9,0.9,True,False,6.085,qwen/qwen3.8-27b
+q_049,engine operating temperature specification?,temperature,GET operating_temp FROM engine operating,0,False,False,0.0,0.0,True,False,5.792,qwen/qwen3.8-27b
+q_008,valve cover bolt bolt tightening torque in Nm?,torque,FETCH bolt_torque WHERE part='valve cover bolt',0,False,False,0.0,0.0,True,False,4.384,qwen/qwen3.8-27b
+q_076,valve clearance exhaust gap specification?,clearance,GET gap FROM valve clearance exhaust,5,True,True,0.9,0.9,True,True,0.023,qwen/qwen3.8-27b
+q_100,starter solenoid electrical specification?,electrical,FETCH amperage_rating FROM starter solenoid,0,False,False,0.0,0.0,True,False,6.352,qwen/qwen3.8-27b
+q_020,What is the engine oil capacity?,capacity,SELECT capacity FROM fluids WHERE type='engine oil',14,True,True,0.9,0.9,True,True,0.026,qwen/qwen3.8-27b
+q_080,What is the connecting rod side clearance?,clearance,SELECT clearance FROM connecting rod side,0,False,False,0.0,0.0,True,False,8.74,qwen/qwen3.8-27b
+q_019,What is the tightening torque for differential cover bolt?,torque,SELECT torque FROM specs WHERE component LIKE '%differential cover bolt%',0,False,False,0.0,0.0,True,False,6.5,qwen/qwen3.8-27b
+q_014,transmission pan bolt bolt tightening torque in Nm?,torque,FETCH bolt_torque WHERE part='transmission pan bolt',0,False,False,0.0,0.0,True,False,5.277,qwen/qwen3.8-27b
+q_006,What is the tightening torque for exhaust manifold?,torque,SELECT torque FROM specs WHERE component LIKE '%exhaust manifold%',0,False,False,0.0,0.0,True,True,0.027,qwen/qwen3.8-27b
+q_011,wheel lug nut bolt tightening torque in Nm?,torque,FETCH bolt_torque WHERE part='wheel lug nut',0,False,False,0.0,0.0,True,False,3.033,qwen/qwen3.8-27b
+q_114,What are all the torque specs for the braking system?,multi_hop,"SELECT component, torque FROM specs WHERE system='braking' ORDER BY torque",5,True,True,0.9,0.9,True,False,7.026,qwen/qwen3.8-27b+multi_hop
+q_065,What are the valve stem dimensions?,dimension,SELECT dimension FROM valve stem,8,True,True,0.9,0.9,True,False,4.349,qwen/qwen3.8-27b
+q_108,Service manual specification for valve lash adjustment?,procedure,FETCH service_instruction WHERE topic='valve lash adjustment',8,True,True,0.9,0.9,True,False,6.551,qwen/qwen3.8-27b
+q_028,Total transfer case fluid capacity in liters?,capacity,FETCH volume WHERE system='transfer case fluid',0,False,False,0.0,0.0,True,False,3.648,qwen/qwen3.8-27b
+q_046,ac high side pressure operating pressure?,pressure,GET operating_pressure FROM ac high side pressure,2,True,False,0.9,0.9,True,False,5.271,qwen/qwen3.8-27b
+q_051,coolant fan activation temperature specification?,temperature,GET operating_temp FROM coolant fan activation,13,True,True,0.9,0.9,True,False,4.552,qwen/qwen3.8-27b
+q_101,What is the procedure or spec for timing belt tension?,procedure,SELECT procedure_steps FROM procedures WHERE topic LIKE '%timing belt tension%',0,False,False,0.0,0.0,True,False,4.637,qwen/qwen3.8-27b
+q_054,intake air temperature specification?,temperature,GET operating_temp FROM intake air,24,True,True,0.9,0.9,True,False,8.667,qwen/qwen3.8-27b
+q_074,What are the camshaft lobe height dimensions?,dimension,SELECT dimension FROM camshaft lobe height,65,True,True,0.9,0.9,True,False,7.791,qwen/qwen3.8-27b
+q_106,Service manual specification for wheel bearing preload?,procedure,FETCH service_instruction WHERE topic='wheel bearing preload',2,True,True,0.9,0.9,True,False,3.006,qwen/qwen3.8-27b
+q_109,What is the procedure or spec for oil filter replacement?,procedure,SELECT procedure_steps FROM procedures WHERE topic LIKE '%oil filter replacement%',0,False,False,0.0,0.0,True,False,3.655,qwen/qwen3.8-27b
+q_068,What are the wheel offset dimensions?,dimension,SELECT dimension FROM wheel offset,0,False,False,0.0,0.0,True,False,4.658,qwen/qwen3.8-27b
+q_071,rear brake shoe minimum thickness?,dimension,GET min_thickness FROM rear brake shoe,2,True,True,0.9,0.9,True,False,4.271,qwen/qwen3.8-27b
+q_095,What is the mass air flow sensor resistance?,electrical,SELECT resistance FROM mass air flow sensor,0,False,False,0.0,0.0,True,False,4.274,qwen/qwen3.8-27b
+q_031,What is the automatic transmission capacity?,capacity,SELECT capacity FROM fluids WHERE type='automatic transmission',0,False,False,0.0,0.0,True,False,3.818,qwen/qwen3.8-27b
+q_017,What is the tightening torque for control arm bolt?,torque,SELECT torque FROM specs WHERE component LIKE '%control arm bolt%',22,True,True,0.9,0.9,True,False,3.968,qwen/qwen3.8-27b
+q_033,Total front differential fluid capacity in liters?,capacity,FETCH volume WHERE system='front differential fluid',2,True,True,0.9,0.9,True,False,3.684,qwen/qwen3.8-27b
+q_018,What is the tightening torque for caliper bracket bolt?,torque,SELECT torque FROM specs WHERE component LIKE '%caliper bracket bolt%',2,True,True,0.9,0.9,True,False,3.093,qwen/qwen3.8-27b
+q_058,What temperature for ambient sensor temp?,temperature,SELECT temp FROM ambient sensor temp,0,False,False,0.0,0.0,True,False,8.275,qwen/qwen3.8-27b
+q_082,spark plug gap gap specification?,clearance,GET gap FROM spark plug gap,4,True,True,0.9,0.9,True,False,4.604,qwen/qwen3.8-27b
+q_050,transmission fluid operating temperature threshold?,temperature,FETCH threshold_celsius FROM transmission fluid,1,True,True,0.9,0.9,True,False,4.62,qwen/qwen3.8-27b
+q_063,cylinder bore minimum thickness?,dimension,GET min_thickness FROM cylinder bore,2,True,True,0.9,0.9,True,False,4.045,qwen/qwen3.8-27b
+q_083,What is the piston to cylinder wall clearance?,clearance,SELECT clearance FROM piston to cylinder wall,0,False,False,0.0,0.0,True,False,3.982,qwen/qwen3.8-27b
+q_027,Total differential oil capacity in liters?,capacity,FETCH volume WHERE system='differential oil',2,True,True,0.9,0.9,True,False,5.407,qwen/qwen3.8-27b
+q_040,coolant system operating pressure?,pressure,GET operating_pressure FROM coolant system,2,True,False,0.9,0.9,True,False,4.922,qwen/qwen3.8-27b
+q_091,oxygen sensor electrical specification?,electrical,FETCH amperage_rating FROM oxygen sensor,16,True,True,0.9,0.9,True,False,5.595,qwen/qwen3.8-27b
+q_112,What are all the fluid capacities for the engine - oil and coolant?,multi_hop,"SELECT capacity FROM fluids WHERE type IN ('engine_oil', 'coolant')",7,True,True,0.9,0.9,True,False,6.197,qwen/qwen3.8-27b+multi_hop
+q_072,What are the flywheel runout dimensions?,dimension,SELECT dimension FROM flywheel runout,0,False,False,0.0,0.0,True,False,3.318,qwen/qwen3.8-27b
+q_120,Compare fuel system pressure with turbo boost pressure specifications,multi_hop,"SELECT a.pressure, b.pressure FROM fuel a, turbo b",4,True,False,0.9,0.9,True,False,14.809,qwen/qwen3.8-27b+multi_hop
+q_116,Compare spark plug gap and valve clearance specifications,multi_hop,SELECT gap FROM spark_plug UNION SELECT gap FROM valve,3,True,False,0.9,0.9,True,False,6.624,qwen/qwen3.8-27b+multi_hop
