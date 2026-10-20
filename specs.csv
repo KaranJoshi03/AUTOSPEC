@@ -1,0 +1,719 @@
+component,spec_type,value,unit,alt_value,alt_unit,notes,source_page,source_snippet,confidence
+AdditiveFriction,Specification,EST M2C118 118ml(4oz)tobe,,,,,340,| AdditiveFriction     | EST M2C118    | 118ml(4oz)tobe         |,0.9
+Modifier,Specification,- - installedbeforeaxle,,,,,340,| Modifier             | - -           | installedbeforeaxle    |,0.9
+XL -3 (US); CXL -3,Specification,A lubricant Not to be,,,,,340,| XL -3 (US); CXL -3   | A             | lubricant Not to be    |,0.9
+(Canada),Specification,—,,,,,340,| (Canada)             |               | —                      |,0.9
+Maximum,Specification,— —,,,,,340,| Maximum              | —             | —                      |,0.9
+Motorcraft®High,Specification,— —,,,,,340,| Motorcraft®High      | —             | —                      |,0.9
+Motorcraft®SAE,Specification,WSL M2C192 2 .84L (6 .0 pt) ELD,,,,,340,| Motorcraft®SAE       | WSL M2C192    | 2 .84L (6 .0 pt) ELD   |,0.9
+75W 140,Specification,- - —,,,,,340,| 75W 140              | - -           | —                      |,0.9
+-,Specification,A and GL -5 only,,,,,340,| -                    | A and GL -5   | only                   |,0.9
+SyntheticRear,Specification,2 .60L (5 .5 pt) Non,,,,,340,| SyntheticRear        |               | 2 .60L (5 .5 pt) Non   |,0.9
+AxleLubricant,Specification,—,,,,,340,| AxleLubricant        |               | —                      |,0.9
+XY 75W140 QL,Specification,Traction-Lok equipped,,,,,340,| XY 75W140 QL         |               | Traction-Lok equipped  |,0.9
+- -,Specification,2 .48L (5 .25 pt),,,,,340,| - -                  |               | 2 .48L (5 .25 pt)      |,0.9
+(US); CXY,Specification,—,,,,,340,| (US); CXY            |               | —                      |,0.9
+-,Specification,Traction-Lok equipped,,,,,340,| -                    |               | Traction-Lok equipped  |,0.9
+Premium Long-,Specification,ESA M1C75 B —,,,,,340,| Premium Long-        | ESA M1C75 B   | —                      |,0.9
+LifeGrease,Specification,- -,,,,,340,| LifeGrease           | - -           |                        |,0.9
+SiliconeGasket,Specification,WSE M4G323 —,,,,,340,| SiliconeGasket       | WSE M4G323    | —                      |,0.9
+andSealant,Specification,- -,,,,,340,| andSealant           | - -           |                        |,0.9
+TA 30,Specification,A4,,,,,340,| TA 30                | A4            |                        |,0.9
+Threadlockand,Specification,WSK M2G351 —,,,,,340,| Threadlockand        | WSK M2G351    | —                      |,0.9
+Sealer,Specification,- -,,,,,340,| Sealer               | - -           |                        |,0.9
+TA 25,Specification,A5,,,,,340,| TA 25                | A5            |                        |,0.9
+TestStep,Specification,Result/ActiontoTake,,,,,162,| TestStep                                               | Result/ActiontoTake       |,0.9
+D1CHECKFORLOWTIREPRESSURE,Specification,Yes,,,,,162,| D1CHECKFORLOWTIREPRESSURE                              | Yes                       |,0.9
+Fill plug,Specification,30 22,,,,,342,| Fill plug              | 30   | 22   | —   |,0.9
+HandleAdapter,Specification,22 —,,,,,342,| HandleAdapter          | 22   | —    | 20  |,0.9
+Lowershockabsorbernuts,Specification,90 66,,,,,342,| Lowershockabsorbernuts | 90   | 66   | —   |,0.9
+Tool 205 -135 nut,Specification,7 —,,,,,342,| Tool 205 -135 nut      | 7    | —    | 62  |,0.9
+U -bolt nut a,Specification,— —,,,,,342,| U -bolt nut a          | —    | —    | —   |,0.9
+Wheelspeedsensorbolts,Specification,15 —,,,,,342,| Wheelspeedsensorbolts  | 15   | —    | 133 |,0.9
+NOTE:Useameterwithamin/maxfeatureand/or,Specification,section CLEARtheDTCs REPEATthe,,,,,775,| NOTE:Useameterwithamin/maxfeatureand/or    | section CLEARtheDTCs REPEATthe          |,0.9
+recordingcapabilitiestoobtainaccurate,Specification,. .,,,,,775,| recordingcapabilitiestoobtainaccurate      | . .                                     |,0.9
+measurements TheABSmoduledisablesthe,Specification,No,,,,,775,| measurements TheABSmoduledisablesthe       | No                                      |,0.9
+.,Specification,GOtoD9,,,,,775,| .                                          | GOtoD9                                  |,0.9
+voltageoutputimmediatelyifthewheelspeed,Specification,.,,,,,775,| voltageoutputimmediatelyifthewheelspeed    | .                                       |,0.9
+z Disconnect:ABSModuleC135,Specification,Yes,,,,,775,| z Disconnect:ABSModuleC135                 | Yes                                     |,0.9
+.,Specification,INSTALLanewABSmodule REFERto,,,,,775,| .                                          | INSTALLanewABSmodule REFERto            |,0.9
+z Checkfor:,Specification,.,,,,,775,| z Checkfor:                                | .                                       |,0.9
+ corrosion,Specification,Anti -Lock Brake System (ABS) Module in,,,,,775,|  corrosion                                            | Anti -Lock Brake System (ABS) Module in |,0.9
+ damagedpins,Specification,thissection CLEARtheDTCs REPEAT,,,,,775,|  damagedpins                                            | thissection CLEARtheDTCs REPEAT         |,0.9
+ pushed -out pins,Specification,. .,,,,,775,|  pushed -out pins                                            | . .                                     |,0.9
+z Connect:ABSModuleC135,Specification,No,,,,,775,| z Connect:ABSModuleC135                    | No                                      |,0.9
+.,Specification,Thesystemisoperatingcorrectlyatthis,,,,,775,| .                                          | Thesystemisoperatingcorrectlyatthis     |,0.9
+z Makesuretheconnectorseatscorrectly then,Specification,time Theconcernmayhavebeen,,,,,775,| z Makesuretheconnectorseatscorrectly then  | time Theconcernmayhavebeen              |,0.9
+",",Specification,.,,,,,775,"| ,                                          | .                                       |",0.9
+z Istheconcernstillpresent?,Specification,causedbyalooseorcorrodedconnector,,,,,775,| z Istheconcernstillpresent?                | causedbyalooseorcorrodedconnector       |,0.9
+11,Specification,— Vacuumsensorelectricalconnector(partof12A581),,,,,741,|  11 | —      | Vacuumsensorelectricalconnector(partof12A581) |,0.9
+12,Specification,3B476 Frontaxleventhose,,,,,741,|  12 | 3B476  | Frontaxleventhose                             |,0.9
+cold ambient temperature with or without the presence of moisture. More noticeable over rough roads or when turning,Specification,bushings Col2,,,,,5,| cold ambient temperature with or without the presence of moisture. More noticeable over rough roads or when turning   | bushings       | Col2                        |,0.9
+ThreadlockandSealer,Specification,WSK M2G351 —,,,,,178,| ThreadlockandSealer                                 | WSK M2G351    | —        |,0.9
+MetalBrakePartsCleaner,Specification,— —,,,,,178,| MetalBrakePartsCleaner         | —                | —        |,0.9
+NOTE:Useameterwithamin/maxfeatureand/or,Specification,section CLEARtheDTCs REPEATthe,,,,,775,| NOTE:Useameterwithamin/maxfeatureand/or    | section CLEARtheDTCs REPEATthe          |,0.9
+recordingcapabilitiestoobtainaccurate,Specification,. .,,,,,775,| recordingcapabilitiestoobtainaccurate      | . .                                     |,0.9
+measurements TheABSmoduledisablesthe,Specification,No,,,,,775,| measurements TheABSmoduledisablesthe       | No                                      |,0.9
+.,Specification,GOtoD9,,,,,775,| .                                          | GOtoD9                                  |,0.9
+voltageoutputimmediatelyifthewheelspeed,Specification,.,,,,,775,| voltageoutputimmediatelyifthewheelspeed    | .                                       |,0.9
+z Disconnect:ABSModuleC135,Specification,Yes,,,,,775,| z Disconnect:ABSModuleC135                 | Yes                                     |,0.9
+.,Specification,INSTALLanewABSmodule REFERto,,,,,775,| .                                          | INSTALLanewABSmodule REFERto            |,0.9
+z Checkfor:,Specification,.,,,,,775,| z Checkfor:                                | .                                       |,0.9
+ corrosion,Specification,Anti -Lock Brake System (ABS) Module in,,,,,775,|  corrosion                                            | Anti -Lock Brake System (ABS) Module in |,0.9
+ damagedpins,Specification,thissection CLEARtheDTCs REPEAT,,,,,775,|  damagedpins                                            | thissection CLEARtheDTCs REPEAT         |,0.9
+ pushed -out pins,Specification,. .,,,,,775,|  pushed -out pins                                            | . .                                     |,0.9
+z Connect:ABSModuleC135,Specification,No,,,,,775,| z Connect:ABSModuleC135                    | No                                      |,0.9
+.,Specification,Thesystemisoperatingcorrectlyatthis,,,,,775,| .                                          | Thesystemisoperatingcorrectlyatthis     |,0.9
+z Makesuretheconnectorseatscorrectly then,Specification,time Theconcernmayhavebeen,,,,,775,| z Makesuretheconnectorseatscorrectly then  | time Theconcernmayhavebeen              |,0.9
+",",Specification,.,,,,,775,"| ,                                          | .                                       |",0.9
+z Istheconcernstillpresent?,Specification,causedbyalooseorcorrodedconnector,,,,,775,| z Istheconcernstillpresent?                | causedbyalooseorcorrodedconnector       |,0.9
+shock absorber nut,Specification,55 Nm (41 lb-ft),,,,,807,"stillpresent?                  | causedbyalooseorcorroded        |
+|                                              | connector CLEARtheDTCs          |
+|         ",0.92
+—,Specification,159,,,,,636,| —      | 159    |,0.9
+Brake flexible hose bracket -to-wheel knuckle bolt,Specification,30 22,,,,,636,| Brake flexible hose bracket -to-wheel knuckle bolt | 30     | 22     | —      |,0.9
+Braketubefitting,Specification,17 —,,,,,636,| Braketubefitting                                   | 17     | —      | 150    |,0.9
+-,Specification,A4,,,,,449,-                                                   | A4            |          |,0.9
+ThreadlockandSealer,Specification,WSK M2G351 —,,,,,449,| ThreadlockandSealer                                 | WSK M2G351    | —        |,0.9
+TA 25,Specification,- -,,,,,449,| TA 25                                               | - -           |          |,0.9
+-,Specification,A5,,,,,449,| -                                                   | A5            |          |,0.9
+Ringgearbacklash,Specification,0 .204 -0 .305 mm (0 .008 -0 .012 in),,,,,449,| Ringgearbacklash                    | 0 .204 -0 .305 mm (0 .008 -0 .012 in)            |,0.9
+Ringgearmaximumbacklashbetweenteeth,Specification,0101mm(0004in),,,,,449,| Ringgearmaximumbacklashbetweenteeth | 0101mm(0004in)                                   |,0.9
+Differentialcasemaximumrunout,Specification,0076mm(0003in),,,,,449,| Differentialcasemaximumrunout       | 0076mm(0003in)                                   |,0.9
+Housingspreaderadapterthread,Specification,125mm(0500in),,,,,449,| Housingspreaderadapterthread        | 125mm(0500in)                                    |,0.9
+engagement,Specification,. .,,,,,449,| engagement                          | . .                                              |,0.9
+Maximumdifferentialhousingspread,Specification,0762mm(0030in),,,,,449,| Maximumdifferentialhousingspread    | 0762mm(0030in)                                   |,0.9
+Lubricantlevel,Specification,956mm(038in)belowbottomofdifferentialhousingfill,,,,,449,| Lubricantlevel                      | 956mm(038in)belowbottomofdifferentialhousingfill |,0.9
+Pinionbearingtorquepreload,Specification,1 .8 -3 .3 Nm (16 -29 lb -in),,,,,449,| Pinionbearingtorquepreload          | 1 .8 -3 .3 Nm (16 -29 lb -in)                    |,0.9
+Description,Specification,Nm lbft,,,,,449,| Description                | Nm     | lbft   |,0.9
+Axlehousingtubebolts,Specification,73 54,,,,,449,| Axlehousingtubebolts       | 73     | 54     |,0.9
+Axlehousingtubebushingbolt,Specification,175 129,,,,,449,| Axlehousingtubebushingbolt | 175    | 129    |,0.9
+NOTE:Useameterwithamin/maxfeatureand/or,Specification,section CLEARtheDTCs REPEATthe,,,,,775,| NOTE:Useameterwithamin/maxfeatureand/or    | section CLEARtheDTCs REPEATthe          |,0.9
+recordingcapabilitiestoobtainaccurate,Specification,. .,,,,,775,| recordingcapabilitiestoobtainaccurate      | . .                                     |,0.9
+measurements TheABSmoduledisablesthe,Specification,No,,,,,775,| measurements TheABSmoduledisablesthe       | No                                      |,0.9
+.,Specification,GOtoD9,,,,,775,| .                                          | GOtoD9                                  |,0.9
+voltageoutputimmediatelyifthewheelspeed,Specification,.,,,,,775,| voltageoutputimmediatelyifthewheelspeed    | .                                       |,0.9
+z Disconnect:ABSModuleC135,Specification,Yes,,,,,775,| z Disconnect:ABSModuleC135                 | Yes                                     |,0.9
+.,Specification,INSTALLanewABSmodule REFERto,,,,,775,| .                                          | INSTALLanewABSmodule REFERto            |,0.9
+z Checkfor:,Specification,.,,,,,775,| z Checkfor:                                | .                                       |,0.9
+ corrosion,Specification,Anti -Lock Brake System (ABS) Module in,,,,,775,|  corrosion                                            | Anti -Lock Brake System (ABS) Module in |,0.9
+ damagedpins,Specification,thissection CLEARtheDTCs REPEAT,,,,,775,|  damagedpins                                            | thissection CLEARtheDTCs REPEAT         |,0.9
+ pushed -out pins,Specification,. .,,,,,775,|  pushed -out pins                                            | . .                                     |,0.9
+z Connect:ABSModuleC135,Specification,No,,,,,775,| z Connect:ABSModuleC135                    | No                                      |,0.9
+.,Specification,Thesystemisoperatingcorrectlyatthis,,,,,775,| .                                          | Thesystemisoperatingcorrectlyatthis     |,0.9
+z Makesuretheconnectorseatscorrectly then,Specification,time Theconcernmayhavebeen,,,,,775,| z Makesuretheconnectorseatscorrectly then  | time Theconcernmayhavebeen              |,0.9
+",",Specification,.,,,,,775,"| ,                                          | .                                       |",0.9
+z Istheconcernstillpresent?,Specification,causedbyalooseorcorrodedconnector,,,,,775,| z Istheconcernstillpresent?                | causedbyalooseorcorrodedconnector       |,0.9
+AdditiveFriction,Specification,EST M2C118 118ml(4oz)tobe,,,,,340,| AdditiveFriction     | EST M2C118    | 118ml(4oz)tobe         |,0.9
+Modifier,Specification,- - installedbeforeaxle,,,,,340,| Modifier             | - -           | installedbeforeaxle    |,0.9
+XL -3 (US); CXL -3,Specification,A lubricant Not to be,,,,,340,| XL -3 (US); CXL -3   | A             | lubricant Not to be    |,0.9
+(Canada),Specification,—,,,,,340,| (Canada)             |               | —                      |,0.9
+Maximum,Specification,— —,,,,,340,| Maximum              | —             | —                      |,0.9
+Motorcraft®High,Specification,— —,,,,,340,| Motorcraft®High      | —             | —                      |,0.9
+Motorcraft®SAE,Specification,WSL M2C192 2 .84L (6 .0 pt) ELD,,,,,340,| Motorcraft®SAE       | WSL M2C192    | 2 .84L (6 .0 pt) ELD   |,0.9
+75W 140,Specification,- - —,,,,,340,| 75W 140              | - -           | —                      |,0.9
+-,Specification,A and GL -5 only,,,,,340,| -                    | A and GL -5   | only                   |,0.9
+SyntheticRear,Specification,2 .60L (5 .5 pt) Non,,,,,340,| SyntheticRear        |               | 2 .60L (5 .5 pt) Non   |,0.9
+AxleLubricant,Specification,—,,,,,340,| AxleLubricant        |               | —                      |,0.9
+XY 75W140 QL,Specification,Traction-Lok equipped,,,,,340,| XY 75W140 QL         |               | Traction-Lok equipped  |,0.9
+- -,Specification,2 .48L (5 .25 pt),,,,,340,| - -                  |               | 2 .48L (5 .25 pt)      |,0.9
+(US); CXY,Specification,—,,,,,340,| (US); CXY            |               | —                      |,0.9
+-,Specification,Traction-Lok equipped,,,,,340,| -                    |               | Traction-Lok equipped  |,0.9
+Premium Long-,Specification,ESA M1C75 B —,,,,,340,| Premium Long-        | ESA M1C75 B   | —                      |,0.9
+LifeGrease,Specification,- -,,,,,340,| LifeGrease           | - -           |                        |,0.9
+SiliconeGasket,Specification,WSE M4G323 —,,,,,340,| SiliconeGasket       | WSE M4G323    | —                      |,0.9
+andSealant,Specification,- -,,,,,340,| andSealant           | - -           |                        |,0.9
+TA 30,Specification,A4,,,,,340,| TA 30                | A4            |                        |,0.9
+Threadlockand,Specification,WSK M2G351 —,,,,,340,| Threadlockand        | WSK M2G351    | —                      |,0.9
+Sealer,Specification,- -,,,,,340,| Sealer               | - -           |                        |,0.9
+TA 25,Specification,A5,,,,,340,| TA 25                | A5            |                        |,0.9
+11,Specification,4216 Differentialringgearbolt(10required),,,,,270,11 | 4216         | Differentialringgearbolt(10required)      |,0.9
+12,Specification,4221 Differentialbearings,,,,,270,|     12 | 4221         | Differentialbearings                      |,0.9
+13,Specification,4222 Differentialbearingcups,,,,,270,|     13 | 4222         | Differentialbearingcups                   |,0.9
+Motorcraft®HighPerformance,Specification,WSS M6C62 A 740ml,,,,,696,| Motorcraft®HighPerformance | WSS M6C62 A     | 740ml    |,0.9
+DOT3MotorVehicleBrake,Specification,- - (156pt),,,,,696,| DOT3MotorVehicleBrake      | - -             | (156pt)  |,0.9
+Fluid(US)/Motorcraft®Brake,Specification,or WSS -M6C65 - .,,,,,696,| Fluid(US)/Motorcraft®Brake | or WSS -M6C65 - | .        |,0.9
+Fluid - Hea v y Duty DOT 3,Specification,A1,,,,,696,| Fluid - Hea v y Duty DOT 3 | A1              |          |,0.9
+Description,Specification,Nm lb ft,,,,,696,| Description                                                   | Nm     | lb ft  | lb -in |,0.9
+Brake booster-to-pedal bracket nuts a,Specification,— —,,,,,696,| Brake booster-to-pedal bracket nuts a                         | —      | —      | —      |,0.9
+Brakemastercylindernuts,Specification,25 18,,,,,696,| Brakemastercylindernuts                                       | 25     | 18     | —      |,0.9
+Brakepedalbracketbolts,Specification,25 18,,,,,696,| Brakepedalbracketbolts                                        | 25     | 18     | —      |,0.9
+Brakepedalcontrolswitchscrew,Specification,3 —,,,,,696,| Brakepedalcontrolswitchscrew                                  | 3      | —      | 27     |,0.9
+Coolantexpansiontank/lowerAirCleaner(ACL)housingassemblybolts,Specification,15 —,,,,,696,| Coolantexpansiontank/lowerAirCleaner(ACL)housingassemblybolts | 15     | —      | 133    |,0.9
+Hoodswitchandbracketnut,Specification,6 —,,,,,696,| Hoodswitchandbracketnut                                       | 6      | —      | 53     |,0.9
+Primarybraketubefitting,Specification,28 21,,,,,696,| Primarybraketubefitting                                       | 28     | 21     | —      |,0.9
+Secondarybraketubefitting,Specification,20 —,,,,,696,| Secondarybraketubefitting                                     | 20     | —      | 177    |,0.9
+SCCM Hall-Effect Sensor,Capacity,Resistance less than 5 ohms,,,,,718,"[Page 718]
+z Are the resistances less than 5 ohms? 
+3 
+C2414C-
+6 
+LPP06 
+(YE/BU) 
+C2159-4 
+C3 CHECK THE SCCM HALL-EFFECT SENSOR 
+CIRCUITS FOR A SHORT TO GROUND ",0.96
+SCCM Hall-Effect Sensor,Specification,"Resistance greater than 10,000 ohms",,,,,718,"[Page 718]
+z Are the resistances less than 5 ohms? 
+3 
+C2414C-
+6 
+LPP06 
+(YE/BU) 
+C2159-4 
+C3 CHECK THE SCCM HALL-EFFECT SENSOR 
+CIRCUITS FOR A SHORT TO GROUND ",0.96
+Brake Booster Vacuum Sensor,Capacity,Resistance measurement between harness sides (value not explicitly stated in snippet),,,,,718,"[Page 718]
+z Are the resistances less than 5 ohms? 
+3 
+C2414C-
+6 
+LPP06 
+(YE/BU) 
+C2159-4 
+C3 CHECK THE SCCM HALL-EFFECT SENSOR 
+CIRCUITS FOR A SHORT TO GROUND ",0.96
+HighPerformanceDOT3,Specification,WSS -M6C62 -A or 740ml,,,,,747,| HighPerformanceDOT3            | WSS -M6C62 -A or | 740ml    |,0.9
+MotorVehicleBrakeFluid,Specification,WSS M6C65 A1 (156pt),,,,,747,| MotorVehicleBrakeFluid         | WSS M6C65 A1     | (156pt)  |,0.9
+P (CM n1 a-C ( )US); CPM -1 -C,Specification,- - .,,,,,747,| P (CM n1 a-C ( )US); CPM -1 -C | - -              | .        |,0.9
+Description,Specification,Nm lb ft,,,,,747,| Description                                          | Nm     | lb ft  | lb -in |,0.9
+ABSmodulescrews,Specification,3 —,,,,,747,| ABSmodulescrews                                      | 3      | —      | 27     |,0.9
+Brake tube-to-Hydraulic Control Unit (HCU) fittings,Specification,20 —,,,,,747,| Brake tube-to-Hydraulic Control Unit (HCU) fittings  | 20     | —      | 177    |,0.9
+Frontwheelspeedsensorbolt,Specification,17 —,,,,,747,| Frontwheelspeedsensorbolt                            | 17     | —      | 150    |,0.9
+Frontwheelspeedsensorharnessbolt,Specification,12 —,,,,,747,| Frontwheelspeedsensorharnessbolt                     | 12     | —      | 106    |,0.9
+HCU -to-bracket nuts,Specification,8 —,,,,,747,| HCU -to-bracket nuts                                 | 8      | —      | 71     |,0.9
+HCUbracketbolts,Specification,20 —,,,,,747,| HCUbracketbolts                                      | 20     | —      | 177    |,0.9
+Master cylinder primary brake tube-to- HCU fitting,Specification,28 21,,,,,747,| Master cylinder primary brake tube-to- HCU fitting   | 28     | 21     | —      |,0.9
+Master cylinder secondary brake tube-to- HCU fitting,Specification,20 —,,,,,747,| Master cylinder secondary brake tube-to- HCU fitting | 20     | —      | 177    |,0.9
+Rearwheelspeedsensorbolt,Specification,15 —,,,,,747,| Rearwheelspeedsensorbolt                             | 15     | —      | 133    |,0.9
+Motorcraft®HighContrastHypoid,Specification,—,,,,,554,| Motorcraft®HighContrastHypoid        | —             |,0.9
+Motorcraft® SAE 80W -90 Premium,Specification,WSP M2C197,,,,,554,| Motorcraft® SAE 80W -90 Premium      | WSP M2C197    |,0.9
+RearAxleLubricant,Specification,- -,,,,,554,| RearAxleLubricant                    | - -           |,0.9
+XY -8 0W90 -QL (US) ; CXY -80W90 -,Specification,A,,,,,554,| XY -8 0W90 -QL (US) ; CXY -80W90 -   | A             |,0.9
+Premium Long-Life Grease,Specification,ESA M1C75 B,,,,,554,| Premium Long-Life Grease             | ESA M1C75 B   |,0.9
+XG -1 -C or XG -1 -K (US); CXG -1 -C,Specification,- -,,,,,554,| XG -1 -C or XG -1 -K (US); CXG -1 -C | - -           |,0.9
+SiliconeGasketandSealant,Specification,WSE M4G323,,,,,554,| SiliconeGasketandSealant             | WSE M4G323    |,0.9
+TA 30,Specification,- -,,,,,554,| TA 30                                | - -           |,0.9
+-,Specification,A4,,,,,554,| -                                    | A4            |,0.9
+AdditiveFriction,Specification,EST M2C118 118ml(4oz)tobe,,,,,340,| AdditiveFriction     | EST M2C118    | 118ml(4oz)tobe         |,0.9
+Modifier,Specification,- - installedbeforeaxle,,,,,340,| Modifier             | - -           | installedbeforeaxle    |,0.9
+XL -3 (US); CXL -3,Specification,A lubricant Not to be,,,,,340,| XL -3 (US); CXL -3   | A             | lubricant Not to be    |,0.9
+(Canada),Specification,—,,,,,340,| (Canada)             |               | —                      |,0.9
+Maximum,Specification,— —,,,,,340,| Maximum              | —             | —                      |,0.9
+Motorcraft®High,Specification,— —,,,,,340,| Motorcraft®High      | —             | —                      |,0.9
+Motorcraft®SAE,Specification,WSL M2C192 2 .84L (6 .0 pt) ELD,,,,,340,| Motorcraft®SAE       | WSL M2C192    | 2 .84L (6 .0 pt) ELD   |,0.9
+75W 140,Specification,- - —,,,,,340,| 75W 140              | - -           | —                      |,0.9
+-,Specification,A and GL -5 only,,,,,340,| -                    | A and GL -5   | only                   |,0.9
+SyntheticRear,Specification,2 .60L (5 .5 pt) Non,,,,,340,| SyntheticRear        |               | 2 .60L (5 .5 pt) Non   |,0.9
+AxleLubricant,Specification,—,,,,,340,| AxleLubricant        |               | —                      |,0.9
+XY 75W140 QL,Specification,Traction-Lok equipped,,,,,340,| XY 75W140 QL         |               | Traction-Lok equipped  |,0.9
+- -,Specification,2 .48L (5 .25 pt),,,,,340,| - -                  |               | 2 .48L (5 .25 pt)      |,0.9
+(US); CXY,Specification,—,,,,,340,| (US); CXY            |               | —                      |,0.9
+-,Specification,Traction-Lok equipped,,,,,340,| -                    |               | Traction-Lok equipped  |,0.9
+Premium Long-,Specification,ESA M1C75 B —,,,,,340,| Premium Long-        | ESA M1C75 B   | —                      |,0.9
+LifeGrease,Specification,- -,,,,,340,| LifeGrease           | - -           |                        |,0.9
+SiliconeGasket,Specification,WSE M4G323 —,,,,,340,| SiliconeGasket       | WSE M4G323    | —                      |,0.9
+andSealant,Specification,- -,,,,,340,| andSealant           | - -           |                        |,0.9
+TA 30,Specification,A4,,,,,340,| TA 30                | A4            |                        |,0.9
+Threadlockand,Specification,WSK M2G351 —,,,,,340,| Threadlockand        | WSK M2G351    | —                      |,0.9
+Sealer,Specification,- -,,,,,340,| Sealer               | - -           |                        |,0.9
+TA 25,Specification,A5,,,,,340,| TA 25                | A5            |                        |,0.9
+Motorcraft®MetalSurfacePrep,Specification,— —,,,,,59,| Motorcraft®MetalSurfacePrep       | —             | —        |,0.9
+Description,Specification,Nm lb ft,,,,,59,| Description                        | Nm     | lb ft  | lb -in |,0.9
+Brakediscshieldbolts,Specification,17 —,,,,,59,| Brakediscshieldbolts               | 17     | —      | 150    |,0.9
+Brakehosebracketbolt,Specification,12 —,,,,,59,| Brakehosebracketbolt               | 12     | —      | 106    |,0.9
+Halfshaftnut,Specification,40 30,,,,,59,| Halfshaftnut                       | 40     | 30     | —      |,0.9
+IntegratedWheelEnd(IWE)bolts,Specification,12 —,,,,,59,| IntegratedWheelEnd(IWE)bolts       | 12     | —      | 106    |,0.9
+Lowerarmforwardandrearwardnuts,Specification,350 258,,,,,59,| Lowerarmforwardandrearwardnuts     | 350    | 258    | —      |,0.9
+Lowerballjointnut,Specification,175 129,,,,,59,| Lowerballjointnut                  | 175    | 129    | —      |,0.9
+Shockabsorberlowernut(SVTRaptor),Specification,550 406,,,,,59,| Shockabsorberlowernut(SVTRaptor)   | 550    | 406    | —      |,0.9
+Shockabsorberlowernuts,Specification,90 66,,,,,59,| Shockabsorberlowernuts             | 90     | 66     | —      |,0.9
+Shockabsorberuppermountnuts,Specification,63 46,,,,,59,| Shockabsorberuppermountnuts        | 63     | 46     | —      |,0.9
+Shockrodnut,Specification,55 41,,,,,59,| Shockrodnut                        | 55     | 41     | —      |,0.9
+Skidplatebolts,Specification,48 35,,,,,59,| Skidplatebolts                     | 48     | 35     | —      |,0.9
+Stabilizerbarbracketnuts,Specification,55 41,,,,,59,| Stabilizerbarbracketnuts           | 55     | 41     | —      |,0.9
+Stabilizerbarlinknuts,Specification,70 52,,,,,59,| Stabilizerbarlinknuts              | 70     | 52     | —      |,0.9
+Stabilizerbarlinknuts(SVTRaptor),Specification,80 59,,,,,59,| Stabilizerbarlinknuts(SVTRaptor)   | 80     | 59     | —      |,0.9
+Tie-rod end nut,Specification,115 85,,,,,59,| Tie-rod end nut                    | 115    | 85     | —      |,0.9
+Upper arm-to-frame nuts,Specification,150 111,,,,,59,| Upper arm-to-frame nuts            | 150    | 111    | —      |,0.9
+Upperballjointnut,Specification,115 85,,,,,59,| Upperballjointnut                  | 115    | 85     | —      |,0.9
+Wheelbearingandwheelhubbolts,Specification,175 129,,,,,59,| Wheelbearingandwheelhubbolts       | 175    | 129    | —      |,0.9
+Wheelspeedsensorbolt,Specification,18 —,,,,,59,| Wheelspeedsensorbolt               | 18     | —      | 159    |,0.9
+Wheelspeedsensorharnessbracketbolt,Specification,12 —,,,,,59,| Wheelspeedsensorharnessbracketbolt | 12     | —      | 106    |,0.9
+Condition,Specification,PossibleSources Action,,,,,4,| Condition                                   | PossibleSources                               | Action                                    |,0.9
+z Squeak or grunt — noise,Specification,z Frontstabilizer z Undertheseconditions the,,,,,4,| z Squeak or grunt — noise                   | z Frontstabilizer                             | z Undertheseconditions the                |,0.9
+DTCDescription,Specification,FaultTriggerCondition,,,,,775,| DTCDescription   | FaultTriggerCondition                                                     |,0.9
+z C1222 —,Specification,ThisDTCsetsintheignitioncyclewhenthevehiclespeedexceeds20km/h(12,,,,,775,| z C1222 —        | ThisDTCsetsintheignitioncyclewhenthevehiclespeedexceeds20km/h(12          |,0.9
+SpeedWheel,Specification,mph)ortheABSmoduledetectsadifferencebetweenwheelspeedsensor,,,,,775,| SpeedWheel       | mph)ortheABSmoduledetectsadifferencebetweenwheelspeedsensor               |,0.9
+Mismatch,Specification,signa ls This DTC canals obese tb ydamage dtonerin gs mi smatch edwhe el,,,,,775,| Mismatch         | signa ls This DTC canals obese tb ydamage dtonerin gs mi smatch edwhe el  |,0.9
+z C1296 —,Specification,TheseDTCssetintheignitioncyclewhenthevehiclespeedexceeds20km/h(12,,,,,775,| z C1296 —        | TheseDTCssetintheignitioncyclewhenthevehiclespeedexceeds20km/h(12         |,0.9
+WheelSpeed,Specification,mph) TheappropriateDTCsetsiftheABSmoduledoesnotreceiveasignalfrom,,,,,775,| WheelSpeed       | mph) TheappropriateDTCsetsiftheABSmoduledoesnotreceiveasignalfrom         |,0.9
+LFSignalFault,Specification,.,,,,,775,| LFSignalFault    | .                                                                         |,0.9
+z C1297 —,Specification,thewheelspeedsensor TheseDTCscanalsobesetbyanexcessivewheel,,,,,775,| z C1297 —        | thewheelspeedsensor TheseDTCscanalsobesetbyanexcessivewheel               |,0.9
+Motorcraft®MetalSurfacePrep,Specification,— —,,,,,59,| Motorcraft®MetalSurfacePrep       | —             | —        |,0.9
+Description,Specification,Nm lb ft,,,,,59,| Description                        | Nm     | lb ft  | lb -in |,0.9
+Brakediscshieldbolts,Specification,17 —,,,,,59,| Brakediscshieldbolts               | 17     | —      | 150    |,0.9
+Brakehosebracketbolt,Specification,12 —,,,,,59,| Brakehosebracketbolt               | 12     | —      | 106    |,0.9
+Halfshaftnut,Specification,40 30,,,,,59,| Halfshaftnut                       | 40     | 30     | —      |,0.9
+IntegratedWheelEnd(IWE)bolts,Specification,12 —,,,,,59,| IntegratedWheelEnd(IWE)bolts       | 12     | —      | 106    |,0.9
+Lowerarmforwardandrearwardnuts,Specification,350 258,,,,,59,| Lowerarmforwardandrearwardnuts     | 350    | 258    | —      |,0.9
+Lowerballjointnut,Specification,175 129,,,,,59,| Lowerballjointnut                  | 175    | 129    | —      |,0.9
+Shockabsorberlowernut(SVTRaptor),Specification,550 406,,,,,59,| Shockabsorberlowernut(SVTRaptor)   | 550    | 406    | —      |,0.9
+Shockabsorberlowernuts,Specification,90 66,,,,,59,| Shockabsorberlowernuts             | 90     | 66     | —      |,0.9
+Shockabsorberuppermountnuts,Specification,63 46,,,,,59,| Shockabsorberuppermountnuts        | 63     | 46     | —      |,0.9
+Shockrodnut,Specification,55 41,,,,,59,| Shockrodnut                        | 55     | 41     | —      |,0.9
+Skidplatebolts,Specification,48 35,,,,,59,| Skidplatebolts                     | 48     | 35     | —      |,0.9
+Stabilizerbarbracketnuts,Specification,55 41,,,,,59,| Stabilizerbarbracketnuts           | 55     | 41     | —      |,0.9
+Stabilizerbarlinknuts,Specification,70 52,,,,,59,| Stabilizerbarlinknuts              | 70     | 52     | —      |,0.9
+Stabilizerbarlinknuts(SVTRaptor),Specification,80 59,,,,,59,| Stabilizerbarlinknuts(SVTRaptor)   | 80     | 59     | —      |,0.9
+Tie-rod end nut,Specification,115 85,,,,,59,| Tie-rod end nut                    | 115    | 85     | —      |,0.9
+Upper arm-to-frame nuts,Specification,150 111,,,,,59,| Upper arm-to-frame nuts            | 150    | 111    | —      |,0.9
+Upperballjointnut,Specification,115 85,,,,,59,| Upperballjointnut                  | 115    | 85     | —      |,0.9
+Wheelbearingandwheelhubbolts,Specification,175 129,,,,,59,| Wheelbearingandwheelhubbolts       | 175    | 129    | —      |,0.9
+Wheelspeedsensorbolt,Specification,18 —,,,,,59,| Wheelspeedsensorbolt               | 18     | —      | 159    |,0.9
+Wheelspeedsensorharnessbracketbolt,Specification,12 —,,,,,59,| Wheelspeedsensorharnessbracketbolt | 12     | —      | 106    |,0.9
+cold ambient temperature with or without the presence of moisture. More noticeable over rough roads or when turning,Specification,bushings Col2,,,,,5,| cold ambient temperature with or without the presence of moisture. More noticeable over rough roads or when turning   | bushings       | Col2                        |,0.9
+z Clunk — noise from the,Specification,z Loosefront z INSPECTforloosenutsor,,,,,5,| z Clunk — noise from the                                                                                              | z Loosefront   | z INSPECTforloosenutsor     |,0.9
+frontsuspension occursin,Specification,suspension bolts TIGHTENto,,,,,5,| frontsuspension occursin                                                                                              | suspension     | bolts TIGHTENto             |,0.9
+",",Specification,.,,,,,5,"| ,                                                                                                                     |                | .                           |",0.9
+andoutofturns,Specification,specification Refertothe,,,,,5,| andoutofturns                                                                                                         |                | specification Refertothe    |,0.9
+z Clunk — noise from the,Specification,z Looserear z INSPECTforlooseor,,,,,5,| z Clunk — noise from the                                                                                              | z Looserear    | z INSPECTforlooseor         |,0.9
+rearsuspension occurs,Specification,suspension damagedrearsuspension,,,,,5,| rearsuspension occurs                                                                                                 | suspension     | damagedrearsuspension       |,0.9
+",",Specification,components components REPAIRor,,,,,5,"| ,                                                                                                                     | components     | components REPAIRor         |",0.9
+whenshiftingfrom,Specification,INSTALLne.,,,,,5,| whenshiftingfrom                                                                                                      |                | INSTALLne.                  |,0.9
+REVE RSEto DRIV E,Specification,w compon en ts,,,,,5,| REVE RSEto DRIV E                                                                                                     |                | w compon en ts              |,0.9
+z Click or pop — noise from,Specification,z Wornor z CARRYOUTaballjoint,,,,,5,| z Click or pop — noise from                                                                                           | z Wornor       | z CARRYOUTaballjoint        |,0.9
+thefrontsuspension More,Specification,damagedball inspection INSTALLnew,,,,,5,| thefrontsuspension More                                                                                               | damagedball    | inspection INSTALLnew       |,0.9
+.,Specification,joint(s) .,,,,,5,| .                                                                                                                     | joint(s)       | .                           |,0.9
+noticeableoverrough,Specification,balljoint(s)orcontrolarm(s),,,,,5,| noticeableoverrough                                                                                                   |                | balljoint(s)orcontrolarm(s) |,0.9
+roadsoroverbumps,Specification,asnecessary REFERto,,,,,5,| roadsoroverbumps                                                                                                      |                | asnecessary REFERto         |,0.9
+z Front suspension noise —,Specification,z Front z INSPECTthefront,,,,,5,| z Front suspension noise —                                                                                            | z Front        | z INSPECTthefront           |,0.9
+asqueak creakorrattle,Specification,suspension suspensio n IN STA LLnew,,,,,5,| asqueak creakorrattle                                                                                                 | suspension     | suspensio n IN STA LLnew    |,0.9
+",",Specification,components .,,,,,5,"| ,                                                                                                                     | components     | .                           |",0.9
+noise Occursmostlyover,Specification,z Looseor componentsasnecessary,,,,,5,| noise Occursmostlyover                                                                                                | z Looseor      | componentsasnecessary       |,0.9
+.,Specification,damagedshock .,,,,,5,| .                                                                                                                     | damagedshock   | .                           |,0.9
+bumpsorroughroads,Specification,absorber(s)or Refertotheappropriate,,,,,5,| bumpsorroughroads                                                                                                     | absorber(s)or  | Refertotheappropriate       |,0.9
+shockabsorber,Specification,sectioninGroup204forthe,,,,,5,|                                                                                                                       | shockabsorber  | sectioninGroup204forthe     |,0.9
+bushing(s),Specification,procedure,,,,,5,|                                                                                                                       | bushing(s)     | procedure                   |,0.9
+z Damaged,Specification,.,,,,,5,|                                                                                                                       | z Damaged      | .                           |,0.9
+Description,Specification,Nm lb ft,,,,,128,| Description                         | Nm     | lb ft  | lb -in |,0.9
+Shockabsorbernuts,Specification,90 66,,,,,128,| Shockabsorbernuts                   | 90     | 66     | —      |,0.9
+Shockabsorbershieldbolts(SVTRaptor),Specification,4 —,,,,,128,| Shockabsorbershieldbolts(SVTRaptor) | 4      | —      | 35     ,0.9
+Description,Specification,Nm lb ft,,,,,128,| Description                        | Nm     | lb ft  | lb -in |,0.9
+Brakediscshieldbolts,Specification,17 —,,,,,128,| Brakediscshieldbolts               | 17     | —      | 150    |,0.9
+Brakehosebracketbolt,Specification,12 —,,,,,128,| Brakehosebracketbolt               | 12     | —      | 106    |,0.9
+57632,Specification,Braketube/parkingbrakecablebracketbolt,,,,,128,57632        | Braketube/parkingbrakecablebracketbolt |,0.9
+-,Specification,A4,,,,,449,-                                                   | A4            |          |,0.9
+ThreadlockandSealer,Specification,WSK M2G351 —,,,,,449,| ThreadlockandSealer                                 | WSK M2G351    | —        |,0.9
+TA 25,Specification,- -,,,,,449,| TA 25                                               | - -           |          |,0.9
+-,Specification,A5,,,,,449,| -                                                   | A5            |          |,0.9
+Ringgearbacklash,Specification,0 .204 -0 .305 mm (0 .008 -0 .012 in),,,,,449,| Ringgearbacklash                    | 0 .204 -0 .305 mm (0 .008 -0 .012 in)            |,0.9
+Ringgearmaximumbacklashbetweenteeth,Specification,0101mm(0004in),,,,,449,| Ringgearmaximumbacklashbetweenteeth | 0101mm(0004in)                                   |,0.9
+Differentialcasemaximumrunout,Specification,0076mm(0003in),,,,,449,| Differentialcasemaximumrunout       | 0076mm(0003in)                                   |,0.9
+Housingspreaderadapterthread,Specification,125mm(0500in),,,,,449,| Housingspreaderadapterthread        | 125mm(0500in)                                    |,0.9
+engagement,Specification,. .,,,,,449,| engagement                          | . .                                              |,0.9
+Maximumdifferentialhousingspread,Specification,0762mm(0030in),,,,,449,| Maximumdifferentialhousingspread    | 0762mm(0030in)                                   |,0.9
+Lubricantlevel,Specification,956mm(038in)belowbottomofdifferentialhousingfill,,,,,449,| Lubricantlevel                      | 956mm(038in)belowbottomofdifferentialhousingfill |,0.9
+Pinionbearingtorquepreload,Specification,1 .8 -3 .3 Nm (16 -29 lb -in),,,,,449,| Pinionbearingtorquepreload          | 1 .8 -3 .3 Nm (16 -29 lb -in)                    |,0.9
+Description,Specification,Nm lbft,,,,,449,| Description                | Nm     | lbft   |,0.9
+Axlehousingtubebolts,Specification,73 54,,,,,449,| Axlehousingtubebolts       | 73     | 54     |,0.9
+Axlehousingtubebushingbolt,Specification,175 129,,,,,449,| Axlehousingtubebushingbolt | 175    | 129    |,0.9
+Motorcraft®HighContrastHypoid,Specification,—,,,,,346,| Motorcraft®HighContrastHypoid | —             |,0.9
+9,Specification,— Clutchplate(partof4880),,,,,280,9 | —             | Clutchplate(partof4880)         |,0.9
+10,Specification,4211 Differentialpinionshaft,,,,,280,|     10 | 4211          | Differentialpinionshaft         |,0.9
+11,Specification,— Selectiveshim(partof4880),,,,,280,|     11 | —             | Selectiveshim(partof4880)       |,0.9
+Maximumaxleshaftflangerunout,Specification,0279mm(0011in),,,,,341,| Maximumaxleshaftflangerunout                       | 0279mm(0011in)                        |,0.9
+Description,Specification,Nm lbft,,,,,341,| Description                                  | Nm     | lbft   | lb -in |,0.9
+Axlevent,Specification,18 —,,,,,341,| Axlevent                                     | 18     | —      | 159    |,0.9
+Brakehosebracketbolts,Specification,30 22,,,,,341,| Brakehosebracketbolts                        | 30     | 22     | —      |,0.9
+Braketube/parkingbrakecablebracketbolt,Specification,25 18,,,,,341,| Braketube/parkingbrakecablebracketbolt       | 25     | 18     | —      |,0.9
+RHparkingbrakecablebracketbolt,Specification,30 22,,,,,341,| RHparkingbrakecablebracketbolt               | 30     | 22     | —      |,0.9
+Differentialbearingcapbolts,Specification,105 77,,,,,341,| Differentialbearingcapbolts                  | 105    | 77     | —      |,0.9
+Differentialhousingcoverbolts,Specification,45 33,,,,,341,| Differentialhousingcoverbolts                | 45     | 33     | —      |,0.9
+Differentialpinionshaftlockbolt,Specification,30 22,,,,,341,| Differentialpinionshaftlockbolt              | 30     | 22     | —      |,0.9
+Differentialringgearboltsa,Specification,— —,,,,,341,| Differentialringgearboltsa                   | —      | —      | —      |,0.9
+Driveshaftflangebolts,Specification,103 76,,,,,341,| Driveshaftflangebolts                        | 103    | 76     | —      |,0.9
+ElectronicLockingDifferential(ELD)coilscrews,Specification,5 —,,,,,341,| ElectronicLockingDifferential(ELD)coilscrews | 5      | —      | 44     |,0.9
+ELDelectricalconnectorbolt,Specification,7 —,,,,,341,| ELDelectricalconnectorbolt                   | 7      | —      | 62     |,0.9
+Description,Specification,Nm lb ft,,,,,24,| Description                        | Nm     | lb ft  | lb -in |,0.9
+Brakediscshieldbolts,Specification,17 —,,,,,24,| Brakediscshieldbolts               | 17     | —      | 150    |,0.9
+Brakehosebracketbolt,Specification,12 —,,,,,24,| Brakehosebracketbolt               | 12     | —      | 106    |,0.9
+Description,Specification,Nm lb ft,,,,,24,| Description                            | Nm     | lb ft  | lb -in |,0.9
+Axlevent,Specification,18 —,,,,,24,| Axlevent                               | 18     | —      | 159    |,0.9
+Brakehosebracketbolts,Specification,30,,,,,24,| Brakehosebracketbolts                  | 30     ,0.9
+ThreadlockandSealer,Specification,WSK M2G351 —,,,,,24,| ThreadlockandSealer                                 | WSK M2G351    | —        |,0.9
+HighPerformanceDOT3,Specification,WSS -M6C62 -A or 740ml,,,,,747,| HighPerformanceDOT3            | WSS -M6C62 -A or | 740ml    |,0.9
+MotorVehicleBrakeFluid,Specification,WSS M6C65 A1 (156pt),,,,,747,| MotorVehicleBrakeFluid         | WSS M6C65 A1     | (156pt)  |,0.9
+P (CM n1 a-C ( )US); CPM -1 -C,Specification,- - .,,,,,747,| P (CM n1 a-C ( )US); CPM -1 -C | - -              | .        |,0.9
+Description,Specification,Nm lb ft,,,,,747,| Description                                          | Nm     | lb ft  | lb -in |,0.9
+ABSmodulescrews,Specification,3 —,,,,,747,| ABSmodulescrews                                      | 3      | —      | 27     |,0.9
+Brake tube-to-Hydraulic Control Unit (HCU) fittings,Specification,20 —,,,,,747,| Brake tube-to-Hydraulic Control Unit (HCU) fittings  | 20     | —      | 177    |,0.9
+Frontwheelspeedsensorbolt,Specification,17 —,,,,,747,| Frontwheelspeedsensorbolt                            | 17     | —      | 150    |,0.9
+Frontwheelspeedsensorharnessbolt,Specification,12 —,,,,,747,| Frontwheelspeedsensorharnessbolt                     | 12     | —      | 106    |,0.9
+HCU -to-bracket nuts,Specification,8 —,,,,,747,| HCU -to-bracket nuts                                 | 8      | —      | 71     |,0.9
+HCUbracketbolts,Specification,20 —,,,,,747,| HCUbracketbolts                                      | 20     | —      | 177    |,0.9
+Master cylinder primary brake tube-to- HCU fitting,Specification,28 21,,,,,747,| Master cylinder primary brake tube-to- HCU fitting   | 28     | 21     | —      |,0.9
+Master cylinder secondary brake tube-to- HCU fitting,Specification,20 —,,,,,747,| Master cylinder secondary brake tube-to- HCU fitting | 20     | —      | 177    |,0.9
+Rearwheelspeedsensorbolt,Specification,15 —,,,,,747,| Rearwheelspeedsensorbolt                             | 15     | —      | 133    |,0.9
+7,Specification,205 110 Adapter for 205 -S127 (1 .7 in thick) (T76P -4020 -A10),,,,,302,|      7 | 205 110  | Adapter for 205 -S127 (1 .7 in thick) (T76P -4020 -A10) |,0.9
+—,Specification,159,,,,,636,| —      | 159    |,0.9
+Brake flexible hose bracket -to-wheel knuckle bolt,Specification,30 22,,,,,636,| Brake flexible hose bracket -to-wheel knuckle bolt | 30     | 22     | —      |,0.9
+Braketubefitting,Specification,17 —,,,,,636,| Braketubefitting                                   | 17     | —      | 150    |,0.9
+.,Specification,. .,,,,,341,| .       | .       | .       | .       |,0.9
+0381,Specification,0015 0508,,,,,341,| 0381    | 0015    | 0508    | 0020    |,0.9
+.,Specification,. .,,,,,341,| .       | .       | .       | .       |,0.9
+Availabledrivepinionshimsinstepsof025mm(0010in),Specification,0 .254 mm (0 .010 in) —,,,,,341,| Availabledrivepinionshimsinstepsof025mm(0010in)    | 0 .254 mm (0 .010 in) —               |,0.9
+. .,Specification,0965mm(0038in),,,,,341,| . .                                                | 0965mm(0038in)                        |,0.9
+ElectronicLockingDifferential(ELD)sidegearbacklash,Specification,0 .100 -1 .000 mm (0 .004 -0 .040 in),,,,,341,| ElectronicLockingDifferential(ELD)sidegearbacklash | 0 .100 -1 .000 mm (0 .004 -0 .040 in) |,0.9
+Maximumdifferentialcaseflangeringgearrunout,Specification,0076mm(0003in),,,,,341,| Maximumdifferentialcaseflangeringgearrunout        | 0076mm(0003in)                        |,0.9
+Maximumvariationbetweenringgearteeth,Specification,0102mm(0004in),,,,,341,| Maximumvariationbetweenringgearteeth               | 0102mm(0004in)                        |,0.9
+Pinionbearingpreload,Specification,1 .8 -3 .3 Nm (16 -29 lb -in),,,,,341,| Pinionbearingpreload                               | 1 .8 -3 .3 Nm (16 -29 lb -in)         |,0.9
+Ringgearbacklash,Specification,0 .203 -0 .304 mm (0 .008 -0 .012 in),,,,,341,| Ringgearbacklash                                   | 0 .203 -0 .304 mm (0 .008 -0 .012 in) |,0.9
+Maximumaxleshaftflangerunout,Specification,0279mm(0011in),,,,,341,| Maximumaxleshaftflangerunout                       | 0279mm(0011in)                        |,0.9
+—,Specification,159,,,,,636,| —      | 159    |,0.9
+Brake flexible hose bracket -to-wheel knuckle bolt,Specification,30 22,,,,,636,| Brake flexible hose bracket -to-wheel knuckle bolt | 30     | 22     | —      |,0.9
+Braketubefitting,Specification,17 —,,,,,636,| Braketubefitting                                   | 17     | —      | 150    |,0.9
+HighPerformanceDOT3,Specification,WSS -M6C62 -A or 1420ml,,,,,652,| HighPerformanceDOT3            | WSS -M6C62 -A or | 1420ml   |,0.9
+MotorVehicleBrakeFluid,Specification,"WSS M6C65 A1 ,",,,,,652,"| MotorVehicleBrakeFluid         | WSS M6C65 A1     | ,        |",0.9
+HighPerformanceDOT3,Specification,WSS -M6C62 -A or 740ml,,,,,652,| HighPerformanceDOT3            | WSS -M6C62 -A or | 740ml    |,0.9
+MotorVehicleBrakeFluid,Specification,WSS M6C65 A1 (156pt),,,,,652,| MotorVehicleBrakeFluid         | WSS M6C65 A1     | (156pt)  |,0.9
+primarybraketubefittings,Specification,28 21,,,,,652,primarybraketubefittings   | 28     |        | 21              | —          |        |,0.9
+Mastercylindersecondarybraketubefitting,Specification,20 —,,,,,652,| Mastercylindersecondarybraketubefitting  | 20     |        | —               | 177        |        |,0.9
+Primarybraketubefitting,Specification,28 21,,,,,652,| Primarybraketubefitting                                       | 28     | 21     | —      |,0.9
+Secondarybraketubefitting,Specification,20 —,,,,,652,| Secondarybraketubefitting                                     | 20     | —      | 177    |,0.9
+Motorcraft®SiliconeBrakeCaliper,Specification,ESE M1C171,,,,,627,Motorcraft®SiliconeBrakeCaliper   | ESE M1C171    |,0.9
+GreaseandDielectricCompound,Specification,- -,,,,,627,| GreaseandDielectricCompound       | - -           |,0.9
+XG 3 A,Specification,A,,,,,627,| XG 3 A                            | A             |,0.9
+Valve stem-to-Tire Pressure Monitoring System (TPMS) sensor screw,Specification,15 13,,,,,140,| Valve stem-to-Tire Pressure Monitoring System (TPMS) sensor screw | 15   | 13       |,0.9
+Wheelnutsa,Specification,— —,,,,,140,| Wheelnutsa                                                        | —    | —        |,0.9
+150,Specification,111 —,,,,,140,| 150    | 111    | —      |,0.9
+Wheelhubnut,Specification,40 30,,,,,140,| Wheelhubnut                        | 40     | 30     | —      |,0.9
+Wheelspeedsensorharnessbracketbolt,Specification,12 —,,,,,140,| Wheelspeedsensorharnessbracketbolt | 12     | —      | 106    |,0.9
+Description,Specification,Nm lb ft,,,,,140,| Description                                                   | Nm     | lb ft  | lb -in |,0.9
+AdditiveFriction,Specification,EST M2C118 118ml(4oz)tobe,,,,,340,| AdditiveFriction     | EST M2C118    | 118ml(4oz)tobe         |,0.9
+Modifier,Specification,- - installedbeforeaxle,,,,,340,| Modifier             | - -           | installedbeforeaxle    |,0.9
+XL -3 (US); CXL -3,Specification,A lubricant Not to be,,,,,340,| XL -3 (US); CXL -3   | A             | lubricant Not to be    |,0.9
+(Canada),Specification,—,,,,,340,| (Canada)             |               | —                      |,0.9
+Maximum,Specification,— —,,,,,340,| Maximum              | —             | —                      |,0.9
+Motorcraft®High,Specification,— —,,,,,340,| Motorcraft®High      | —             | —                      |,0.9
+Motorcraft®SAE,Specification,WSL M2C192 2 .84L (6 .0 pt) ELD,,,,,340,| Motorcraft®SAE       | WSL M2C192    | 2 .84L (6 .0 pt) ELD   |,0.9
+75W 140,Specification,- - —,,,,,340,| 75W 140              | - -           | —                      |,0.9
+-,Specification,A and GL -5 only,,,,,340,| -                    | A and GL -5   | only                   |,0.9
+SyntheticRear,Specification,2 .60L (5 .5 pt) Non,,,,,340,| SyntheticRear        |               | 2 .60L (5 .5 pt) Non   |,0.9
+AxleLubricant,Specification,—,,,,,340,| AxleLubricant        |               | —                      |,0.9
+XY 75W140 QL,Specification,Traction-Lok equipped,,,,,340,| XY 75W140 QL         |               | Traction-Lok equipped  |,0.9
+- -,Specification,2 .48L (5 .25 pt),,,,,340,| - -                  |               | 2 .48L (5 .25 pt)      |,0.9
+(US); CXY,Specification,—,,,,,340,| (US); CXY            |               | —                      |,0.9
+-,Specification,Traction-Lok equipped,,,,,340,| -                    |               | Traction-Lok equipped  |,0.9
+Premium Long-,Specification,ESA M1C75 B —,,,,,340,| Premium Long-        | ESA M1C75 B   | —                      |,0.9
+LifeGrease,Specification,- -,,,,,340,| LifeGrease           | - -           |                        |,0.9
+SiliconeGasket,Specification,WSE M4G323 —,,,,,340,| SiliconeGasket       | WSE M4G323    | —                      |,0.9
+andSealant,Specification,- -,,,,,340,| andSealant           | - -           |                        |,0.9
+TA 30,Specification,A4,,,,,340,| TA 30                | A4            |                        |,0.9
+Threadlockand,Specification,WSK M2G351 —,,,,,340,| Threadlockand        | WSK M2G351    | —                      |,0.9
+Sealer,Specification,- -,,,,,340,| Sealer               | - -           |                        |,0.9
+TA 25,Specification,A5,,,,,340,| TA 25                | A5            |                        |,0.9
+-,Specification,A4,,,,,449,-                                                   | A4            |          |,0.9
+ThreadlockandSealer,Specification,WSK M2G351 —,,,,,449,| ThreadlockandSealer                                 | WSK M2G351    | —        |,0.9
+TA 25,Specification,- -,,,,,449,| TA 25                                               | - -           |          |,0.9
+-,Specification,A5,,,,,449,| -                                                   | A5            |          |,0.9
+Ringgearbacklash,Specification,0 .204 -0 .305 mm (0 .008 -0 .012 in),,,,,449,| Ringgearbacklash                    | 0 .204 -0 .305 mm (0 .008 -0 .012 in)            |,0.9
+Ringgearmaximumbacklashbetweenteeth,Specification,0101mm(0004in),,,,,449,| Ringgearmaximumbacklashbetweenteeth | 0101mm(0004in)                                   |,0.9
+Differentialcasemaximumrunout,Specification,0076mm(0003in),,,,,449,| Differentialcasemaximumrunout       | 0076mm(0003in)                                   |,0.9
+Housingspreaderadapterthread,Specification,125mm(0500in),,,,,449,| Housingspreaderadapterthread        | 125mm(0500in)                                    |,0.9
+engagement,Specification,. .,,,,,449,| engagement                          | . .                                              |,0.9
+Maximumdifferentialhousingspread,Specification,0762mm(0030in),,,,,449,| Maximumdifferentialhousingspread    | 0762mm(0030in)                                   |,0.9
+Lubricantlevel,Specification,956mm(038in)belowbottomofdifferentialhousingfill,,,,,449,| Lubricantlevel                      | 956mm(038in)belowbottomofdifferentialhousingfill |,0.9
+Pinionbearingtorquepreload,Specification,1 .8 -3 .3 Nm (16 -29 lb -in),,,,,449,| Pinionbearingtorquepreload          | 1 .8 -3 .3 Nm (16 -29 lb -in)                    |,0.9
+Description,Specification,Nm lbft,,,,,449,| Description                | Nm     | lbft   |,0.9
+Axlehousingtubebolts,Specification,73 54,,,,,449,| Axlehousingtubebolts       | 73     | 54     |,0.9
+Axlehousingtubebushingbolt,Specification,175 129,,,,,449,| Axlehousingtubebushingbolt | 175    | 129    |,0.9
+Maximumaxleshaftflangerunout,Specification,0279mm(0011in),,,,,341,| Maximumaxleshaftflangerunout                       | 0279mm(0011in)                        |,0.9
+Motorcraft®MetalSurfacePrep,Specification,— —,,,,,341,| Motorcraft®MetalSurfacePrep       | —             | —        |,0.9
+E3CHECKTHEBATTERYCONDITIONANDSTATEOFCHARGE,Specification,Yes,,,,,842,| E3CHECKTHEBATTERYCONDITIONANDSTATEOFCHARGE                                  | Yes                        |,0.9
+E4CHECKTHETBCMODULEVOLTAGE(MODULE VOLT)PID,Specification,Yes,,,,,842,| E4CHECKTHETBCMODULEVOLTAGE(MODULE VOLT)PID                                  | Yes                        |,0.9
+_,Specification,GOtoE7,,,,,842,| _                                                                           | GOtoE7                     |,0.9
+E5CHECKTHETBCMODULEVOLTAGESUPPLY,Specification,Yes,,,,,842,| E5CHECKTHETBCMODULEVOLTAGESUPPLY                                            | Yes                        |,0.9
+Col0,Specification,Installer DifferentialCarrier,,,,,408,| Col0   | Installer DifferentialCarrier   |,0.9
+Molykote®M77,Specification,— —,,,,,672,| Molykote®M77 | —             | —            |,0.9
+Parkingbrakeshoeclearance,Specification,059mm(0023in),,,,,672,| Parkingbrakeshoeclearance | 059mm(0023in) |,0.9
+Description,Specification,Nm lb ft,,,,,672,| Description                      | Nm     | lb ft  | lb -in |,0.9
+Parkingbrakecablebracketbolt(RH),Specification,30 22,,,,,672,| Parkingbrakecablebracketbolt(RH) | 30     | 22     | —      |,0.9
+Parkingbrakecontrolbolts,Specification,20 —,,,,,672,| Parkingbrakecontrolbolts         | 20     | —      | 177    |,0.9
+Col0,Specification,No Col2,,,,,709,| Col0                                                             | No                           | Col2      |,0.9
+thesystem,Specification,fornormal,,,,,709,|                                                                  | thesystem                    | fornormal |,0.9
+"z Are the resistances greater than 10 ,000 ohms?",Specification,operation,,,,,709,"| z Are the resistances greater than 10 ,000 ohms?                 | operation                    |           |",0.9
+z IgnitionON,Specification,Yes,,,,,709,| z IgnitionON                                                     | Yes                          |           |,0.9
+.,Specification,REPAIRtheaffectedcircuit,,,,,709,| .                                                                | REPAIRtheaffectedcircuit     |           |,0.9
+z Measurethevoltagebetweengroundand:,Specification,(s) CLEARtheDTCs,,,,,709,| z Measurethevoltagebetweengroundand:                             | (s) CLEARtheDTCs             |           |,0.9
+ SCCM C2414B -4 circuit CPP01 (WH/OG) harness side,Specification,. .,,,,,709,|  SCCM C2414B -4 circuit CPP01 (WH/OG) harness side                                                                  | . .                          |           |,0.9
+", , .",Specification,REPEAT the self -test TEST,,,,,709,"| , , .                                                            | REPEAT the self -test TEST   |           |",0.9
+ SCCM C2414B -7 circuit CPP02 (BN) harness side,Specification,.,,,,,709,|  SCCM C2414B -7 circuit CPP02 (BN) harness side                                                                  | .                            |           |,0.9
+thesystem,Specification,fornormal,,,,,709,|                                                                  | thesystem                    | fornormal |,0.9
+z Isanyvoltagepresent?,Specification,No,,,,,709,| z Isanyvoltagepresent?                                           | No                           |           |,0.9
+z IgnitionOFF,Specification,Yes,,,,,709,| z IgnitionOFF                                                    | Yes                          |           |,0.9
+.,Specification,GOtoA9,,,,,709,| .                                                                | GOtoA9                       |           |,0.9
+z Connect:SCCMC2414AandC2414B,Specification,.,,,,,709,| z Connect:SCCMC2414AandC2414B                                    | .                            |           |,0.9
+z NOTICE:Thefollowingstepusesatestlighttosimulate,Specification,No .,,,,,709,| z NOTICE:Thefollowingstepusesatestlighttosimulate                | No                           | .         |,0.9
+normalcircuitloads Useonlythetestlightrecommendedin,Specification,GOtoA10,,,,,709,| normalcircuitloads Useonlythetestlightrecommendedin              | GOtoA10                      |           |,0.9
+Motorcraft®MetalSurfacePrep,Specification,— —,,,,,59,| Motorcraft®MetalSurfacePrep       | —             | —        |,0.9
+Description,Specification,Nm lb ft,,,,,59,| Description                        | Nm     | lb ft  | lb -in |,0.9
+Brakediscshieldbolts,Specification,17 —,,,,,59,| Brakediscshieldbolts               | 17     | —      | 150    |,0.9
+Brakehosebracketbolt,Specification,12 —,,,,,59,| Brakehosebracketbolt               | 12     | —      | 106    |,0.9
+Halfshaftnut,Specification,40 30,,,,,59,| Halfshaftnut                       | 40     | 30     | —      |,0.9
+IntegratedWheelEnd(IWE)bolts,Specification,12 —,,,,,59,| IntegratedWheelEnd(IWE)bolts       | 12     | —      | 106    |,0.9
+Lowerarmforwardandrearwardnuts,Specification,350 258,,,,,59,| Lowerarmforwardandrearwardnuts     | 350    | 258    | —      |,0.9
+Lowerballjointnut,Specification,175 129,,,,,59,| Lowerballjointnut                  | 175    | 129    | —      |,0.9
+Shockabsorberlowernut(SVTRaptor),Specification,550 406,,,,,59,| Shockabsorberlowernut(SVTRaptor)   | 550    | 406    | —      |,0.9
+Shockabsorberlowernuts,Specification,90 66,,,,,59,| Shockabsorberlowernuts             | 90     | 66     | —      |,0.9
+Shockabsorberuppermountnuts,Specification,63 46,,,,,59,| Shockabsorberuppermountnuts        | 63     | 46     | —      |,0.9
+Shockrodnut,Specification,55 41,,,,,59,| Shockrodnut                        | 55     | 41     | —      |,0.9
+Skidplatebolts,Specification,48 35,,,,,59,| Skidplatebolts                     | 48     | 35     | —      |,0.9
+Stabilizerbarbracketnuts,Specification,55 41,,,,,59,| Stabilizerbarbracketnuts           | 55     | 41     | —      |,0.9
+Stabilizerbarlinknuts,Specification,70 52,,,,,59,| Stabilizerbarlinknuts              | 70     | 52     | —      |,0.9
+Stabilizerbarlinknuts(SVTRaptor),Specification,80 59,,,,,59,| Stabilizerbarlinknuts(SVTRaptor)   | 80     | 59     | —      |,0.9
+Tie-rod end nut,Specification,115 85,,,,,59,| Tie-rod end nut                    | 115    | 85     | —      |,0.9
+Upper arm-to-frame nuts,Specification,150 111,,,,,59,| Upper arm-to-frame nuts            | 150    | 111    | —      |,0.9
+Upperballjointnut,Specification,115 85,,,,,59,| Upperballjointnut                  | 115    | 85     | —      |,0.9
+Wheelbearingandwheelhubbolts,Specification,175 129,,,,,59,| Wheelbearingandwheelhubbolts       | 175    | 129    | —      |,0.9
+Wheelspeedsensorbolt,Specification,18 —,,,,,59,| Wheelspeedsensorbolt               | 18     | —      | 159    |,0.9
+Wheelspeedsensorharnessbracketbolt,Specification,12 —,,,,,59,| Wheelspeedsensorharnessbracketbolt | 12     | —      | 106    |,0.9
+CaliperGreaseandDielectric,Specification,- -,,,,,599,| CaliperGreaseandDielectric        | - -             |          |,0.9
+Frontbrakediscminimumthickness,Specification,32mm(1259in),,,,,599,| Frontbrakediscminimumthickness           |        |        | 32mm(1259in)    |            |        |,0.9
+Rearbrakediscminimumthickness,Specification,230 mm(0906in),,,,,599,| Rearbrakediscminimumthickness            |        |        | 230             | mm(0906in) |        |,0.9
+.,Specification,.,,,,,599,|                                          |        |        | .               | .          |        |,0.9
+Maximumbrakepadtaperwear(inanydirection),Specification,30mm(0118in),,,,,599,| Maximumbrakepadtaperwear(inanydirection) |        |        | 30mm(0118in)    |            |        |,0.9
+Minimumbrakepadthickness,Specification,30mm(0118in),,,,,599,| Minimumbrakepadthickness                 |        |        | 30mm(0118in)    |            |        |,0.9
+Description,Specification,Nm lb ft,,,,,599,| Description                              | Nm     |        | lb ft           | lb -in     |        |,0.9
+Brakecaliperbleedscrew,Specification,10 —,,,,,599,| Brakecaliperbleedscrew                   | 10     |        | —               | 89         |        |,0.9
+Mastercylinderprimarybraketubefittings,Specification,28 21,,,,,599,| Mastercylinderprimarybraketubefittings   | 28     |        | 21              | —          |        |,0.9
+Mastercylindersecondarybraketubefitting,Specification,20 —,,,,,599,| Mastercylindersecondarybraketubefitting  | 20     |        | —               | 177        |        |,0.9
+Axlehousingtubebolts,Specification,73 54,,,,,449,| Axlehousingtubebolts       | 73     | 54     |,0.9
+Axlehousingtubebushingbolt,Specification,175 129,,,,,449,| Axlehousingtubebushingbolt | 175    | 129    |,0.9
+ConstantVelocityJointGrease,Specification,WSS M1C258,,,,,588,| ConstantVelocityJointGrease | WSS M1C258    |,0.9
+(HighTemperature),Specification,- -,,,,,588,| (HighTemperature)           | - -           |,0.9
+XG 5,Specification,A1,,,,,588,| XG 5                        | A1            |,0.9
+1,Specification,3B436B OutboardCVjointandinterconnectingshaft,,,,,588,|      1 | 3B436B   | OutboardCVjointandinterconnectingshaft |,0.9
+2,Specification,3A331A OutboardCVboot,,,,,588,|      2 | 3A331A   | OutboardCVboot                         |,0.9
+3,Specification,3A331B InboardCVboot,,,,,588,|      3 | 3A331B   | InboardCVboot                          |,0.9
+4,Specification,4B422 Snapring,,,,,588,|      4 | 4B422    | Snapring                               |,0.9
+5,Specification,3B414 InboardCVjointhousing,,,,,588,|      5 | 3B414    | InboardCVjointhousing                  |,0.9
+6,Specification,— Innerrace(partof3B436RH/3B437LH),,,,,588,|      6 | —        | Innerrace(partof3B436RH/3B437LH)       |,0.9
+7,Specification,— Ball(8required)(partof3B436RH/3B437LH),,,,,588,|      7 | —        | Ball(8required)(partof3B436RH/3B437LH) |,0.9
+8,Specification,— Ballcage(partof3B436RH/3B437LH),,,,,588,|      8 | —        | Ballcage(partof3B436RH/3B437LH)        |,0.9
+9,Specification,3B426 Retainingring(partof3B436RH/3B437LH),,,,,588,|      9 | 3B426    | Retainingring(partof3B436RH/3B437LH)   |,0.9
+Molykote®M77,Specification,— —,,,,,672,| Molykote®M77 | —             | —            |,0.9
+Parkingbrakeshoeclearance,Specification,059mm(0023in),,,,,672,| Parkingbrakeshoeclearance | 059mm(0023in) |,0.9
+Description,Specification,Nm lb ft,,,,,672,| Description                      | Nm     | lb ft  | lb -in |,0.9
+Parkingbrakecablebracketbolt(RH),Specification,30 22,,,,,672,| Parkingbrakecablebracketbolt(RH) | 30     | 22     | —      |,0.9
+Parkingbrakecontrolbolts,Specification,20 —,,,,,672,| Parkingbrakecontrolbolts         | 20     | —      | 177    |,0.9
+Motorcraft® SAE 80W -90,Specification,WSP M2C197 166L,,,,,449,| Motorcraft® SAE 80W -90                             | WSP M2C197    | 166L     |,0.9
+PremiumRearAxleLubricant,Specification,- - .,,,,,449,| PremiumRearAxleLubricant                            | - -           | .        |,0.9
+X 80Y W-8 90 0W -19 L0 - (Q CL n( aU dS a) ); CXY -,Specification,A (35pt),,,,,449,| X 80Y W-8 90 0W -19 L0 - (Q CL n( aU dS a) ); CXY - | A             | (35pt)   |,0.9
+a,Specification,.,,,,,449,| a                                                   |               | .        |,0.9
+AdditiveFrictionModifier,Specification,EST M2C118 A 40oz,,,,,449,| AdditiveFrictionModifier                            | EST M2C118 A  | 40oz     |,0.9
+XL -3 (US); CXL -3 (Canada),Specification,- - .,,,,,449,| XL -3 (US); CXL -3 (Canada)                         | - -           | .        |,0.9
+Premium Long-Life Grease,Specification,ESA M1C75 B —,,,,,449,| Premium Long-Life Grease                            | ESA M1C75 B   | —        |,0.9
+XG -1 -C or XG -1 -K (US); CXG -1 -,Specification,- -,,,,,449,| XG -1 -C or XG -1 -K (US); CXG -1 -                 | - -           |          |,0.9
+SiliconeGasketandSealant,Specification,WSE M4G323 —,,,,,449,| SiliconeGasketandSealant                            | WSE M4G323    | —        |,0.9
+TA 30,Specification,- -,,,,,449,| TA 30                                               | - -           |          |,0.9
+-,Specification,A4,,,,,449,| -                                                   | A4            |          |,0.9
+ThreadlockandSealer,Specification,WSK M2G351 —,,,,,449,| ThreadlockandSealer                                 | WSK M2G351    | —        |,0.9
+TA 25,Specification,- -,,,,,449,| TA 25                                               | - -           |          |,0.9
+-,Specification,A5,,,,,449,| -                                                   | A5            |          |,0.9
+primarybraketubefittings,Specification,28 21,,,,,599,primarybraketubefittings   | 28     |        | 21              | —          |        |,0.9
+Mastercylindersecondarybraketubefitting,Specification,20 —,,,,,599,| Mastercylindersecondarybraketubefitting  | 20     |        | —               | 177        |        |,0.9
+Description,Specification,Nm lb ft,,,,,599,| Description                                                   | Nm     | lb ft  | lb -in |,0.9
+Brake flexible hose bracket -to-wheel knuckle bolt,Specification,30 22,,,,,599,| Brake flexible hose bracket -to-wheel knuckle bolt | 30     | 22     | —      |,0.9
+Braketubefitting,Specification,17 —,,,,,599,| Braketubefitting                                   | 17     | —      | 150    |,0.9
+High Temperature Nickel Anti,Specification,— —,,,,,140,| High Temperature Nickel Anti | —             | —        |,0.9
+Motorcraft®WheelandTire,Specification,— —,,,,,140,| Motorcraft®WheelandTire      | —             | —        |,0.9
+Tires,Specification,SeeSafetyCertificationLabelondriverdoorjamb,,,,,140,| Tires         | SeeSafetyCertificationLabelondriverdoorjamb                           |,0.9
+Wheelweight,Specification,Useawheelweightmanufacturer'srimgaugetodeterminethecorrectwheelweight,,,,,140,| Wheelweight   | Useawheelweightmanufacturer'srimgaugetodeterminethecorrectwheelweight |,0.9
+type,Specification,application,,,,,140,| type          | application                                                           |,0.9
+Description,Specification,Nm lb -in,,,,,140,| Description                                                       | Nm   | lb -in   |,0.9
+Valve stem-to-Tire Pressure Monitoring System (TPMS) sensor screw,Specification,15 13,,,,,140,| Valve stem-to-Tire Pressure Monitoring System (TPMS) sensor screw | 15   | 13       |,0.9
+Wheelnutsa,Specification,— —,,,,,140,| Wheelnutsa                                                        | —    | —        |,0.9
+BacklashChangeRequired,Specification,Col1 ThicknessChangeRequired,,,,,532,| BacklashChangeRequired   | Col1   | ThicknessChangeRequired   | Col3   |,0.9
+mm,Specification,Inch mm,,,,,532,| mm                       | Inch   | mm                        | Inch   |,0.9
+0025,Specification,0001 0050,,,,,532,| 0025                     | 0001   | 0050                      | 0002   |,0.9
+.,Specification,. .,,,,,532,| .                        | .      | .                         | .      |,0.9
+0050,Specification,0002 0050,,,,,532,| 0050                     | 0002   | 0050                      | 0002   |,0.9
+.,Specification,. .,,,,,532,| .                        | .      | .                         | .      |,0.9
+0076,Specification,0003 0101,,,,,532,| 0076                     | 0003   | 0101                      | 0004   |,0.9
+.,Specification,. .,,,,,532,| .                        | .      | .                         | .      |,0.9
+reasewiththebrakepedal,Specification,INSTALLanewHCU REFERto,,,,,783,reasewiththebrakepedal                 | INSTALLanewHCU REFERto          |,0.9
+released?,Specification,.,,,,,783,| released?                                             | .                               |,0.9
+Motorcraft®HighPerformance,Specification,WSS M6C62 A 740ml,,,,,696,| Motorcraft®HighPerformance | WSS M6C62 A     | 740ml    |,0.9
+DOT3MotorVehicleBrake,Specification,- - (156pt),,,,,696,| DOT3MotorVehicleBrake      | - -             | (156pt)  |,0.9
+Fluid(US)/Motorcraft®Brake,Specification,or WSS -M6C65 - .,,,,,696,| Fluid(US)/Motorcraft®Brake | or WSS -M6C65 - | .        |,0.9
+Fluid - Hea v y Duty DOT 3,Specification,A1,,,,,696,| Fluid - Hea v y Duty DOT 3 | A1              |          |,0.9
+Description,Specification,Nm lb ft,,,,,696,| Description                                                   | Nm     | lb ft  | lb -in |,0.9
+Brake booster-to-pedal bracket nuts a,Specification,— —,,,,,696,| Brake booster-to-pedal bracket nuts a                         | —      | —      | —      |,0.9
+Brakemastercylindernuts,Specification,25 18,,,,,696,| Brakemastercylindernuts                                       | 25     | 18     | —      |,0.9
+Brakepedalbracketbolts,Specification,25 18,,,,,696,| Brakepedalbracketbolts                                        | 25     | 18     | —      |,0.9
+Brakepedalcontrolswitchscrew,Specification,3 —,,,,,696,| Brakepedalcontrolswitchscrew                                  | 3      | —      | 27     |,0.9
+Coolantexpansiontank/lowerAirCleaner(ACL)housingassemblybolts,Specification,15 —,,,,,696,| Coolantexpansiontank/lowerAirCleaner(ACL)housingassemblybolts | 15     | —      | 133    |,0.9
+Hoodswitchandbracketnut,Specification,6 —,,,,,696,| Hoodswitchandbracketnut                                       | 6      | —      | 53     |,0.9
+Primarybraketubefitting,Specification,28 21,,,,,696,| Primarybraketubefitting                                       | 28     | 21     | —      |,0.9
+Secondarybraketubefitting,Specification,20 —,,,,,696,| Secondarybraketubefitting                                     | 20     | —      | 177    |,0.9
+cold ambient temperature with or without the presence of moisture. More noticeable over rough roads or when turning,Specification,bushings Col2,,,,,5,| cold ambient temperature with or without the presence of moisture. More noticeable over rough roads or when turning   | bushings       | Col2                        |,0.9
+z Clunk — noise from the,Specification,z Loosefront z INSPECTforloosenutsor,,,,,5,| z Clunk — noise from the                                                                                              | z Loosefront   | z INSPECTforloosenutsor     |,0.9
+frontsuspension occursin,Specification,suspension bolts TIGHTENto,,,,,5,| frontsuspension occursin                                                                                              | suspension     | bolts TIGHTENto             |,0.9
+",",Specification,.,,,,,5,"| ,                                                                                                                     |                | .                           |",0.9
+andoutofturns,Specification,specification Refertothe,,,,,5,| andoutofturns                                                                                                         |                | specification Refertothe    |,0.9
+z Clunk — noise from the,Specification,z Looserear z INSPECTforlooseor,,,,,5,| z Clunk — noise from the                                                                                              | z Looserear    | z INSPECTforlooseor         |,0.9
+rearsuspension occurs,Specification,suspension damagedrearsuspension,,,,,5,| rearsuspension occurs                                                                                                 | suspension     | damagedrearsuspension       |,0.9
+",",Specification,components components REPAIRor,,,,,5,"| ,                                                                                                                     | components     | components REPAIRor         |",0.9
+whenshiftingfrom,Specification,INSTALLne.,,,,,5,| whenshiftingfrom                                                                                                      |                | INSTALLne.                  |,0.9
+REVE RSEto DRIV E,Specification,w compon en ts,,,,,5,| REVE RSEto DRIV E                                                                                                     |                | w compon en ts              |,0.9
+z Click or pop — noise from,Specification,z Wornor z CARRYOUTaballjoint,,,,,5,| z Click or pop — noise from                                                                                           | z Wornor       | z CARRYOUTaballjoint        |,0.9
+thefrontsuspension More,Specification,damagedball inspection INSTALLnew,,,,,5,| thefrontsuspension More                                                                                               | damagedball    | inspection INSTALLnew       |,0.9
+.,Specification,joint(s) .,,,,,5,| .                                                                                                                     | joint(s)       | .                           |,0.9
+noticeableoverrough,Specification,balljoint(s)orcontrolarm(s),,,,,5,| noticeableoverrough                                                                                                   |                | balljoint(s)orcontrolarm(s) |,0.9
+roadsoroverbumps,Specification,asnecessary REFERto,,,,,5,| roadsoroverbumps                                                                                                      |                | asnecessary REFERto         |,0.9
+z Front suspension noise —,Specification,z Front z INSPECTthefront,,,,,5,| z Front suspension noise —                                                                                            | z Front        | z INSPECTthefront           |,0.9
+asqueak creakorrattle,Specification,suspension suspensio n IN STA LLnew,,,,,5,| asqueak creakorrattle                                                                                                 | suspension     | suspensio n IN STA LLnew    |,0.9
+",",Specification,components .,,,,,5,"| ,                                                                                                                     | components     | .                           |",0.9
+noise Occursmostlyover,Specification,z Looseor componentsasnecessary,,,,,5,| noise Occursmostlyover                                                                                                | z Looseor      | componentsasnecessary       |,0.9
+.,Specification,damagedshock .,,,,,5,| .                                                                                                                     | damagedshock   | .                           |,0.9
+bumpsorroughroads,Specification,absorber(s)or Refertotheappropriate,,,,,5,| bumpsorroughroads                                                                                                     | absorber(s)or  | Refertotheappropriate       |,0.9
+shockabsorber,Specification,sectioninGroup204forthe,,,,,5,|                                                                                                                       | shockabsorber  | sectioninGroup204forthe     |,0.9
+bushing(s),Specification,procedure,,,,,5,|                                                                                                                       | bushing(s)     | procedure                   |,0.9
+z Damaged,Specification,.,,,,,5,|                                                                                                                       | z Damaged      | .                           |,0.9
+Differential Shim Size Chart — 4067,Specification,Col1 Col2,,,,,572,| Differential Shim Size Chart — 4067   | Col1        | Col2        |,0.9
+NumbersofStripesandColorCode,Specification,DimensionA,,,,,572,| NumbersofStripesandColorCode          | DimensionA  |             |,0.9
+mm,Specification,Inch,,,,,572,|                                       | mm          | Inch        |,0.9
+2 C COAL,Specification,77978 78105 03070 03075,,,,,572,| 2 C COAL                              | 77978 78105 | 03070 03075 |,0.9
+— -,Specification,. - . . - .,,,,,572,| — -                                   | . - .       | . - .       |,0.9
+1 C COAL,Specification,77470 77597 03050 03055,,,,,572,| 1 C COAL                              | 77470 77597 | 03050 03055 |,0.9
+— -,Specification,. - . . - .,,,,,572,| — -                                   | . - .       | . - .       |,0.9
+5 BLU,Specification,76962 77089 03030 03035,,,,,572,| 5 BLU                                 | 76962 77089 | 03030 03035 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+4 BLU,Specification,76454 76581 03010 03015,,,,,572,| 4 BLU                                 | 76454 76581 | 03010 03015 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+3 BLU,Specification,75946 76073 02990 02995,,,,,572,| 3 BLU                                 | 75946 76073 | 02990 02995 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+2 BLU,Specification,75458 75565 02970 02975,,,,,572,| 2 BLU                                 | 75458 75565 | 02970 02975 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+1 BLU,Specification,7493 7505 02950 02955,,,,,572,| 1 BLU                                 | 7493 7505   | 02950 02955 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+5 PINK,Specification,74422 74549 02930 02935,,,,,572,| 5 PINK                                | 74422 74549 | 02930 02935 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+4 PINK,Specification,73914 74041 02910 02915,,,,,572,| 4 PINK                                | 73914 74041 | 02910 02915 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+3 PINK,Specification,73406 73533 02890 02895,,,,,572,| 3 PINK                                | 73406 73533 | 02890 02895 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+2 PINK,Specification,72898 73025 02870 02875,,,,,572,| 2 PINK                                | 72898 73025 | 02870 02875 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+1 PINK,Specification,72390 72517 02850 02855,,,,,572,| 1 PINK                                | 72390 72517 | 02850 02855 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+5 GRN,Specification,71882 72009 02830 02835,,,,,572,| 5 GRN                                 | 71882 72009 | 02830 02835 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+4 GRN,Specification,71374 71501 02810 02815,,,,,572,| 4 GRN                                 | 71374 71501 | 02810 02815 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+3 GRN,Specification,70866 70993 02790 02795,,,,,572,| 3 GRN                                 | 70866 70993 | 02790 02795 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+2 GRN,Specification,70358 70485 02770 02775,,,,,572,| 2 GRN                                 | 70358 70485 | 02770 02775 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+1 GRN,Specification,69850 70485 02750 02755,,,,,572,| 1 GRN                                 | 69850 70485 | 02750 02755 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+5 WH,Specification,69342 69469 02730 02735,,,,,572,| 5 WH                                  | 69342 69469 | 02730 02735 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+4 WH,Specification,68834 68961 02710 02715,,,,,572,| 4 WH                                  | 68834 68961 | 02710 02715 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+3 WH,Specification,68326 68453 02690 02695,,,,,572,| 3 WH                                  | 68326 68453 | 02690 02695 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+2 WH,Specification,67818 67945 02670 02675,,,,,572,| 2 WH                                  | 67818 67945 | 02670 02675 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+1 WH,Specification,67310 67437 02650 02655,,,,,572,| 1 WH                                  | 67310 67437 | 02650 02655 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+5 YEL,Specification,66802 66929 02630 02635,,,,,572,| 5 YEL                                 | 66802 66929 | 02630 02635 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+4 YEL,Specification,66294 66421 02610 02615,,,,,572,| 4 YEL                                 | 66294 66421 | 02610 02615 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+3 YEL,Specification,65786 65913 02590 02595,,,,,572,| 3 YEL                                 | 65786 65913 | 02590 02595 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+2 YEL,Specification,65278 65405 02570 02575,,,,,572,| 2 YEL                                 | 65278 65405 | 02570 02575 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+1 YEL,Specification,64770 64897 02550 02555,,,,,572,| 1 YEL                                 | 64770 64897 | 02550 02555 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+5 ORNG,Specification,64262 64389 02530 02535,,,,,572,| 5 ORNG                                | 64262 64389 | 02530 02535 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+4 ORNG,Specification,63754 63881 02510 02515,,,,,572,| 4 ORNG                                | 63754 63881 | 02510 02515 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+3 ORNG,Specification,63246 63373 02490 02495,,,,,572,| 3 ORNG                                | 63246 63373 | 02490 02495 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+2 ORNG,Specification,62738 62865 02470 02475,,,,,572,| 2 ORNG                                | 62738 62865 | 02470 02475 |,0.9
+—,Specification,. - . . - .,,,,,572,| —                                     | . - .       | . - .       |,0.9
+4320,Specification,White Axlesbuiltafter7/16/07,,,,,426,| 4320         | White              | Axlesbuiltafter7/16/07                  |,0.9
+4C121,Specification,White Kit with spacer for all 9 .75 -in axles,,,,,426,| 4C121        | White              | Kit with spacer for all 9 .75 -in axles |,0.9
+primarybraketubefittings,Specification,28 21,,,,,599,primarybraketubefittings   | 28     |        | 21              | —          |        |,0.9
+Mastercylindersecondarybraketubefitting,Specification,20 —,,,,,599,| Mastercylindersecondarybraketubefitting  | 20     |        | —               | 177        |        |,0.9
+Motorcraft®MetalSurfacePrep,Specification,— —,,,,,59,| Motorcraft®MetalSurfacePrep       | —             | —        |,0.9
+Description,Specification,Nm lb ft,,,,,59,| Description                        | Nm     | lb ft  | lb -in |,0.9
+Brakediscshieldbolts,Specification,17 —,,,,,59,| Brakediscshieldbolts               | 17     | —      | 150    |,0.9
+Brakehosebracketbolt,Specification,12 —,,,,,59,| Brakehosebracketbolt               | 12     | —      | 106    |,0.9
+Halfshaftnut,Specification,40 30,,,,,59,| Halfshaftnut                       | 40     | 30     | —      |,0.9
+IntegratedWheelEnd(IWE)bolts,Specification,12 —,,,,,59,| IntegratedWheelEnd(IWE)bolts       | 12     | —      | 106    |,0.9
+Lowerarmforwardandrearwardnuts,Specification,350 258,,,,,59,| Lowerarmforwardandrearwardnuts     | 350    | 258    | —      |,0.9
+Lowerballjointnut,Specification,175 129,,,,,59,| Lowerballjointnut                  | 175    | 129    | —      |,0.9
+Shockabsorberlowernut(SVTRaptor),Specification,550 406,,,,,59,| Shockabsorberlowernut(SVTRaptor)   | 550    | 406    | —      |,0.9
+Shockabsorberlowernuts,Specification,90 66,,,,,59,| Shockabsorberlowernuts             | 90     | 66     | —      |,0.9
+Shockabsorberuppermountnuts,Specification,63 46,,,,,59,| Shockabsorberuppermountnuts        | 63     | 46     | —      |,0.9
+Shockrodnut,Specification,55 41,,,,,59,| Shockrodnut                        | 55     | 41     | —      |,0.9
+Skidplatebolts,Specification,48 35,,,,,59,| Skidplatebolts                     | 48     | 35     | —      |,0.9
+Stabilizerbarbracketnuts,Specification,55 41,,,,,59,| Stabilizerbarbracketnuts           | 55     | 41     | —      |,0.9
+Stabilizerbarlinknuts,Specification,70 52,,,,,59,| Stabilizerbarlinknuts              | 70     | 52     | —      |,0.9
+Stabilizerbarlinknuts(SVTRaptor),Specification,80 59,,,,,59,| Stabilizerbarlinknuts(SVTRaptor)   | 80     | 59     | —      |,0.9
+Tie-rod end nut,Specification,115 85,,,,,59,| Tie-rod end nut                    | 115    | 85     | —      |,0.9
+Upper arm-to-frame nuts,Specification,150 111,,,,,59,| Upper arm-to-frame nuts            | 150    | 111    | —      |,0.9
+Upperballjointnut,Specification,115 85,,,,,59,| Upperballjointnut                  | 115    | 85     | —      |,0.9
+Wheelbearingandwheelhubbolts,Specification,175 129,,,,,59,| Wheelbearingandwheelhubbolts       | 175    | 129    | —      |,0.9
+Wheelspeedsensorbolt,Specification,18 —,,,,,59,| Wheelspeedsensorbolt               | 18     | —      | 159    |,0.9
+Wheelspeedsensorharnessbracketbolt,Specification,12 —,,,,,59,| Wheelspeedsensorharnessbracketbolt | 12     | —      | 106    |,0.9
+Axlehousingtubebolts,Specification,73 54,,,,,449,| Axlehousingtubebolts       | 73     | 54     |,0.9
+Axlehousingtubebushingbolt,Specification,175 129,,,,,449,| Axlehousingtubebushingbolt | 175    | 129    |,0.9
+Brake flexible hose bracket -to-frame bolt,Specification,17 —,,,,,652,| Brake flexible hose bracket -to-frame bolt | 17     | —      |               | 150             |        |,0.9
+Braketubefitting,Specification,17 —,,,,,652,| Braketubefitting                           | 17     | —      |               | 150             |        |,0.9
+1,Specification,W712724 Axlebushingbolts(2required),,,,,509,|      1 | W712724      | Axlebushingbolts(2required) |,0.9
+2,Specification,5638 Axlebushings(3required),,,,,509,|      2 | 5638         | Axlebushings(3required)     |,0.9
+3,Specification,W712723 Axlebushingflagnut,,,,,509,|      3 | W712723      | Axlebushingflagnut          |,0.9
+4,Specification,W712743 Axlebushingbolt,,,,,509,|      4 | W712743      | Axlebushingbolt             |,0.9
+Special Tool(s),Specification,Col1,,,,,540,| Special Tool(s)   | Col1                          |,0.9
+primarybraketubefittings,Specification,28 21,,,,,599,primarybraketubefittings   | 28     |        | 21              | —          |        |,0.9
+Mastercylindersecondarybraketubefitting,Specification,20 —,,,,,599,| Mastercylindersecondarybraketubefitting  | 20     |        | —               | 177        |        |,0.9
+Axlehousingtubebolts,Specification,73 54,,,,,449,| Axlehousingtubebolts       | 73     | 54     |,0.9
+Axlehousingtubebushingbolt,Specification,175 129,,,,,449,| Axlehousingtubebushingbolt | 175    | 129    |,0.9
+TestStep,Specification,Result/ActiontoTake,,,,,162,| TestStep                                               | Result/ActiontoTake       |,0.9
+D1CHECKFORLOWTIREPRESSURE,Specification,Yes,,,,,162,| D1CHECKFORLOWTIREPRESSURE                              | Yes                       |,0.9
+NOTE:Useameterwithamin/maxfeatureand/or,Specification,section CLEARtheDTCs REPEATthe,,,,,775,| NOTE:Useameterwithamin/maxfeatureand/or    | section CLEARtheDTCs REPEATthe          |,0.9
+recordingcapabilitiestoobtainaccurate,Specification,. .,,,,,775,| recordingcapabilitiestoobtainaccurate      | . .                                     |,0.9
+measurements TheABSmoduledisablesthe,Specification,No,,,,,775,| measurements TheABSmoduledisablesthe       | No                                      |,0.9
+.,Specification,GOtoD9,,,,,775,| .                                          | GOtoD9                                  |,0.9
+voltageoutputimmediatelyifthewheelspeed,Specification,.,,,,,775,| voltageoutputimmediatelyifthewheelspeed    | .                                       |,0.9
+z Disconnect:ABSModuleC135,Specification,Yes,,,,,775,| z Disconnect:ABSModuleC135                 | Yes                                     |,0.9
+.,Specification,INSTALLanewABSmodule REFERto,,,,,775,| .                                          | INSTALLanewABSmodule REFERto            |,0.9
+z Checkfor:,Specification,.,,,,,775,| z Checkfor:                                | .                                       |,0.9
+ corrosion,Specification,Anti -Lock Brake System (ABS) Module in,,,,,775,|  corrosion                                            | Anti -Lock Brake System (ABS) Module in |,0.9
+ damagedpins,Specification,thissection CLEARtheDTCs REPEAT,,,,,775,|  damagedpins                                            | thissection CLEARtheDTCs REPEAT         |,0.9
+ pushed -out pins,Specification,. .,,,,,775,|  pushed -out pins                                            | . .                                     |,0.9
+z Connect:ABSModuleC135,Specification,No,,,,,775,| z Connect:ABSModuleC135                    | No                                      |,0.9
+.,Specification,Thesystemisoperatingcorrectlyatthis,,,,,775,| .                                          | Thesystemisoperatingcorrectlyatthis     |,0.9
+z Makesuretheconnectorseatscorrectly then,Specification,time Theconcernmayhavebeen,,,,,775,| z Makesuretheconnectorseatscorrectly then  | time Theconcernmayhavebeen              |,0.9
+",",Specification,.,,,,,775,"| ,                                          | .                                       |",0.9
+z Istheconcernstillpresent?,Specification,causedbyalooseorcorrodedconnector,,,,,775,| z Istheconcernstillpresent?                | causedbyalooseorcorrodedconnector       |,0.9
+Motorcraft® SAE 80W -90,Specification,WSP M2C197,,,,,449,| Motorcraft® SAE 80W -90                             | WSP M2C197  ,0.9
+AdditiveFriction,Specification,EST M2C118 118ml(4oz)tobe,,,,,449,| AdditiveFriction     | EST M2C118    | 118ml(4oz)tobe         |,0.9
+Modifier,Specification,- - installedbeforeaxle,,,,,449,| Modifier             | - -           | installedbeforeaxle    |,0.9
+XL -3 (US); CXL -3,Specification,A lubricant Not to be,,,,,449,| XL -3 (US); CXL -3   | A             | lubricant Not to be    |,0.9
+Motorcraft®HighPerformance,Specification,WSS M6C62 A 740ml,,,,,449,| Motorcraft®HighPerformance | WSS M6C62 A     | 740ml    |,0.9
+DOT3MotorVehicleBrake,Specification,- - (156pt),,,,,449,| DOT3MotorVehicleBrake      | - -             | (156pt)  |,0.9
+Fluid(US)/Motorcraft®Brake,Specification,or WSS -M,,,,,449,| Fluid(US)/Motorcraft®Brake | or WSS -M,0.9
+DTC,Specification,Description Action,,,,,20,| DTC      | Description                | Action                                             | Col3          |,0.9
+B1182:00,Specification,TirePressureMonitoring GOtoPinpointTestF,,,,,20,| B1182:00 | TirePressureMonitoring     | GOtoPinpointTestF                                  |               |,0.9
+TestStep,Specification,Result/ActiontoTake,,,,,20,| TestStep                                               | Result/ActiontoTake       |,0.9
+D1CHECKFORLOWTIREPRESSURE,Specification,Yes,,,,,20,| D1CHECKFORLOWTIREPRESSURE                              | Yes                       |,0.9
+MetalBrakePartsCleaner,Specification,— —,,,,,509,| MetalBrakePartsCleaner         | —                | —        |,0.9
+Molykote®M77,Specification,— —,,,,,509,| Molykote®M77 | —             | —            |,0.9
+High Temperature Nickel Anti,Specification,— —,,,,,509,| High Temperature Nickel Anti | —             | —        |,0.9
