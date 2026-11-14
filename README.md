@@ -59,22 +59,22 @@ Automotive workshop service manuals are dense, non-standardized documents contai
 
 ## 🏆 Key Achievements & Scorecard
 
-| Metric / Subsystem | Measured Result | Benchmark Standard / SLA | Status |
-| :--- | :--- | :--- | :---: |
-| **Document Ingestion** | **852 pages** parsed (43.6 MB) | Full manual coverage | ✅ 100% |
-| **Semantic Chunking** | **1,053 chunks** (400 table-bearing) | Markdown table preservation | ✅ Verified |
-| **Extracted Specifications** | **689 verified specifications** | > 100 specs requirement | 🚀 6.8x Target |
-| **SQL Benchmark Suite** | **123 structured queries** across 9 domains | > 100 queries evaluated | ✅ Complete |
-| **RAGAS Faithfulness** | **1.0000 (100.0%)** | > 0.8500 SLA threshold | ⭐⭐⭐⭐⭐ Top |
-| **RAGAS Context Precision** | **0.8800 (88.0%)** | > 0.7500 SLA threshold | ⭐⭐⭐⭐⭐ Top |
-| **Multi-Hop Reasoning** | **100.0% Success (0.0% failure)** | Multi-page cross reasoning | 🏆 Flawless |
-| **Schema Validity Rate** | **100.0%** strict Pydantic compliance | Zero JSON decoding drops | ✅ 100% |
-| **Mean Query Latency** | **4.85 seconds** (Median: 4.45s) | < 15.00s SLA threshold | ⚡ 3x Faster |
-| **Semantic Cache Hit** | **0.02 seconds** retrieval latency | Sub-second warm response | ⚡ Instant |
-| **Knowledge Graph** | **509 Nodes & 593 Structural Edges** | Automated component network | 🕸️ Generated |
-| **Ablation Study Matrix** | **54 architectural runs** completed | Winning: Hybrid RRF + BGE (96% hit) | 🔬 Verified |
-| **End-to-End Assertion Suite** | **20 / 20 Tests Passed (100.0%)** | Full subsystem unit & integration | 🏆 Perfect |
-| **Total Cloud API Cost** | **$0.00 Total Spent** | Strict zero-dollar budget | 💰 $0.00 |
+| Metric / Subsystem | Measured Result | Benchmark Standard / SLA |
+| :--- | :--- | :--- |
+| **Document Ingestion** | **852 pages** parsed (43.6 MB) | Full manual coverage |
+| **Semantic Chunking** | **1,053 chunks** (400 table-bearing) | Markdown table preservation |
+| **Extracted Specifications** | **689 verified specifications** | > 100 specs requirement |
+| **SQL Benchmark Suite** | **123 structured queries** across 9 domains | > 100 queries evaluated |
+| **RAGAS Faithfulness** | **1.0000 (100.0%)** | > 0.8500 SLA threshold |
+| **RAGAS Context Precision** | **0.8800 (88.0%)** | > 0.7500 SLA threshold |
+| **Multi-Hop Reasoning** | **100.0% Success (0.0% failure)** | Multi-page cross reasoning |
+| **Schema Validity Rate** | **100.0%** strict Pydantic compliance | Zero JSON decoding drops |
+| **Mean Query Latency** | **4.85 seconds** (Median: 4.45s) | < 15.00s SLA threshold |
+| **Semantic Cache Hit** | **0.02 seconds** retrieval latency | Sub-second warm response |
+| **Knowledge Graph** | **509 Nodes & 593 Structural Edges** | Automated component network | 
+| **Ablation Study Matrix** | **54 architectural runs** completed | Winning: Hybrid RRF + BGE (96% hit) | 
+| **End-to-End Assertion Suite** | **20 / 20 Tests Passed (100.0%)** | Full subsystem unit & integration |
+| **Total Cloud API Cost** | **$0.00 Total Spent** | Strict zero-dollar budget |
 
 ---
 
